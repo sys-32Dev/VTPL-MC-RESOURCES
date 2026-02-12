@@ -1,0 +1,6 @@
+{
+  "name": "immersive_armorer.attachment.grip_aluminium.name",
+  "display": "immersive_armorer:grip_aluminium_display",
+  "data": "immersive_armorer:grip_aluminium_data",
+  "type": "grip"
+}

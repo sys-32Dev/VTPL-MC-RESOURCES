@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.scope_yukino.name",
+  "tooltip": "bluearchive.attachment.scope_yukino.tooltip",
+  "display": "bluearchive:scope_yukino_display",
+  "data": "bluearchive:scope_yukino_data",
+  "type": "scope"
+}

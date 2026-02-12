@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "eos:magazine_t3_1"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "eos:magazine_t3_3"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "eos:battery"
+        }
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "eos:magazine_t3_2"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

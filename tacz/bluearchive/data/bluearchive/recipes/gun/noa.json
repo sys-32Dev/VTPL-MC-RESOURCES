@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 7
+    },
+    {
+      "item": {
+        "item": "minecraft:blue_dye"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:blaze_powder"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bluearchive:noa",
+    "attachments": {
+      "scope": "bluearchive:scope_noa"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

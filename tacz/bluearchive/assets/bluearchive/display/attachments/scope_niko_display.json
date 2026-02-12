@@ -1,0 +1,11 @@
+{
+  "model": "bluearchive:attachment/scope_niko_geo",
+  "slot": "bluearchive:attachment/slot/nikoscope",
+  "texture": "bluearchive:attachment/uv/nikoscope",
+  "zoom": [
+    2.0
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0
+}

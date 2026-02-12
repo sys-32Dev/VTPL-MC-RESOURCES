@@ -1,0 +1,98 @@
+{
+  "pack.bluearchive.name": "SUPER BLUE ARCHIVE GUN PACK",
+  "pack.bluearchive.desc": "This pack added firearm from Blue Archive, and we plan to add all student's firearm!",
+
+
+  "bluearchive.gun.shiroko.name": "§bWHITE FANG 465",
+  "bluearchive.gun.shiroko.tooltip":"Shiroko's favorite assault rifle.It is always well maintained, so it is always ready for anything to happen.",
+  "bluearchive.attachment.scope_shiroko.name": "WHITE FANG 456 SCOPE",
+  "bluearchive.attachment.scope_shiroko.tooltip":"Shiroko's scope, covered with battle damage \nthat cannot be erased. With additional of the \nscope, it makes the job of scouting out of the money trucks much easier",
+  "bluearchive.attachment.grip_shiroko.name":"WHITE FANG 456 GRIP",
+  "bluearchive.attachment.grip_shiroko.tooltip":"Shiroko's grip, simple and reliable stucture make\n it suitable for any situation. It bears some \nscratch that cannot be wiped away as it is often held by a strong left hand.",
+  
+
+  "bluearchive.gun.hoshino.name": "§dEYES OF HORUS",
+  "bluearchive.gun.hoshino.tooltip":"Hoshino's favorite shotgun with a simple design.Basically, she wants to be lazy, but she fails to maintain her gun.",
+
+  "bluearchive.gun.ayane.name": "Common sense",
+  "bluearchive.gun.ayane.tooltip":"A gun with a cute design that Ayane is wielding.Unless you repeatedly say or do something insane in front of her, you don't get to see this in front of her very often.",
+
+  "bluearchive.gun.serika.name": "§4Sincerity",
+  "bluearchive.gun.serika.tooltip":"The assault rifle that Serika carries with her when she goes out to work part-time.It was always meticulously maintained, showing the meticulousness and sincerity of Serika.",
+  "bluearchive.attachment.scope_serika.name": "Sincerity SCOPE",
+  "bluearchive.attachment.scope_serika.tooltip":"According to 'Historian records for Schale'\nSerika's scope described as 'suitable for assassination,\n but often used to find plastic bottle to be sold', this \nis also recorded in 'Books of later Kivotos'",
+
+  "bluearchive.gun.nonomi.name": "§2Little Machine Gun V ",
+  "bluearchive.gun.nonomi.tooltip":"A machine gun used by Nonomi.Despite the 'little' name, it is quite large.",
+
+  "bluearchive.gun.hina.name":"§5The End: Destroyer ",
+  "bluearchive.gun.hina.tooltip":"A machine gun that Hina handles as if it were her own limb.Anyone who violates the school rules or disturbs the public morals will be blown away by its ruthless destructive power.",
+
+  "bluearchive.gun.miyako.name":"§bRABBIT-Type 31 Submachine Gun ",
+  "bluearchive.gun.miyako.tooltip":"Miyako was issued a regulation submachine gun by the SRT Special Academy.It is a highly reliable gun and can effectively repel the enemy even under extreme circumstances.",
+  "bluearchive.attachment.muzzle_miyako.name":"RABBIT-Type 31 Submachine Gun SUPPRESSOR",
+  "bluearchive.attachment.muzzle_miyako.tooltip":"SRT Special Academy's standardised silencers. Cheap as it's standardised,\n So you won't get enough money to sleep somewhere other than park even if you sold it",
+  "bluearchive.attachment.scope_miyako.name":"RABBIT-Type 31 Submachine Gun SIGHTS",
+  "bluearchive.attachment.scope_miyako.tooltip":"SRT Special Academy's standardised Sights.\n Cheap as it's standardised, cheaper than the batteries it uses... ",
+
+  "bluearchive.gun.fuuka.name":"§4School Lunch Club Personal Defense Weapon Type A",
+  "bluearchive.gun.fuuka.tooltip":"A submachine gun that Fuuka always carries.She sometimes tries to use it to subdue the troublemakers in the cafeteria, but most of the time they quiet down before she can use it, so she doesn't seem to get much use out of it.",
+  "bluearchive.attachment.grip_fuuka.name":"School Lunch Club Personal Defense Weapon Type A GRIP",
+  "bluearchive.attachment.grip_fuuka.tooltip":"Fuuka's grips, which often used by the experienced hand \nthat had gone through knife wounds. It even gives some aroma of the \ndishes she cooked. Will it improve cooking skill after using it?",
+  "bluearchive.attachment.muzzle_fuuka.name":"School Lunch Club Personal Defense Weapon Type A SUPPRESSOR",
+  "bluearchive.attachment.muzzle_fuuka.tooltip":"Fuuka's suppressor, as she often have to deal with the \ntroublemakers, perhaps in the shadows where shouldn't to be known,\n this supprepsor played an important role...",
+  "bluearchive.attachment.scope_fuuka.name":"School Lunch Club Personal Defense Weapon Type A SCOPE",
+  "bluearchive.attachment.scope_fuuka.tooltip":"Fuuka's Scope, used to accurately subdue the troublemakers.\n Other than the scope itself, it also requires a firm grip with hands\n honed through years of cooking to ensure the accuracy",
+
+  "bluearchive.gun.natsu.name": "Beyond the Rumination",
+  "bluearchive.gun.natsu.tooltip":"The submachine gun that Natsu carries.For her, who basically likes to contemplate, taking out this gun is often a 'last resort'",
+
+  "bluearchive.gun.azusa.name": "§4Et Omnia Vanitas",
+  "bluearchive.gun.azusa.tooltip":"A gun that Azusa always holds tightly.The barrel is engraved with the phrase, 'All is in vain. No matter how far you go, it's all just emptiness.'",
+
+  "bluearchive.gun.yukino.name": "§6FOX-416 Assault rifle",
+  "bluearchive.gun.yukino.tooltip":"Yukino was issued a regulation assault rifle by the SRT Special Academy, it's reliable in any distance and suitable for a squad leader to carry",
+  "bluearchive.attachment.grip_yukino.name":"FOX-416 Assualt rifle's grip",
+  "bluearchive.attachment.grip_yukino.tooltip":"A grip that's ease to use, it's so easy that the prison have a rule to avoid it's getting use as a door handler",
+  "bluearchive.attachment.scope_yukino.name":"FOX-416 Assualt rifle's sight",
+  "bluearchive.attachment.scope_yukino.tooltip":"A sight that's even more ease to use, it's so good that it's forbidden in the prison",
+
+  "bluearchive.gun.niko.name": "§5FOX-870 Shotgun",
+  "bluearchive.gun.niko.tooltip":"Niko was issued a regulation shotgun by the SRT Special Academy, it's powerfull close-range burst damage, making it an essential partner for her ",
+  "bluearchive.attachment.scope_niko.name":"FOX-870 Shotgun's sight",
+  "bluearchive.attachment.scope_niko.tooltip":"A reliable and simple sight, as dependable as a mother’s embrace.\nThis sight was a sight which may become a mother to me",
+
+  "bluearchive.gun.kurumi.name": "§6FOX-45 Submachine Gun",
+  "bluearchive.gun.kurumi.tooltip":"Kurumi was issued a regulation Submachine gun by the SRT Special Academy. Combined with her shield, it makes her the tank of her team",
+  "bluearchive.attachment.grip_kurumi.name":"FOX-45 Submachine Gun's grip",
+  "bluearchive.attachment.grip_kurumi.tooltip":"A reliable and simple grip\nif you touch it without permission, Kurumi will smack you so hard that you'll be sent flying",
+  "bluearchive.attachment.scope_kurumi.name":"FOX-45 Submachine Gun's sight",
+  "bluearchive.attachment.scope_kurumi.tooltip":"Another simple and reliable sight\nKurumi doesn’t remove the original sights when attaching it—won’t it block her view?",
+
+  "bluearchive.gun.otogi.name": "§2FOX-82 Sniper rifle",
+  "bluearchive.gun.otogi.tooltip":"Otogi was issued a regulation Sniper rifle by the SRT Special Academy, which provides the team with reliable long-range fire support by it's terrifying accuracy",
+  "bluearchive.attachment.grip_otogi.name":"FOX-82 Sniper rifle's tripods",
+  "bluearchive.attachment.grip_otogi.tooltip":"Although it is a simple and reliable tripod, occasionally it struggles to stabilize the firearm.\njust a adorable little blunders that a cute tripod often makes on the battlefield～",
+  "bluearchive.attachment.scope_otogi.name":"FOX-82 Sniper rifle's high-power scope",
+  "bluearchive.attachment.scope_otogi.tooltip":"A simple and reliable high-power scope\nif you mess with it while Otogi just spent hours to adjusted it\nshe will be so shocked that she’ll be frozen in place for an entire day",
+
+  "bluearchive.gun.noa.name": "§1Secretary's Vote",
+  "bluearchive.gun.noa.tooltip":"Noa uses a pistol with a conversion kit.With the stock extended, it can be fired like a submachine gun.(lie)。",
+  "bluearchive.attachment.scope_noa.name":"Secretary's Vote's sight",
+  "bluearchive.attachment.scope_noa.tooltip":"The scope paired with the stock can somehow be detached for some reason.\nIt’s often only useful after the stock is extended.",
+
+  "bluearchive.gun.toki.name": "§bSecret Time",
+  "bluearchive.gun.toki.tooltip":"It has the performance to match its appearance and eliminates all targets that interfere with her mission.Toki didn't choose the name, somebody else named it.",
+  "bluearchive.attachment.scope_toki.name":"Secret Time's scope",
+  "bluearchive.attachment.scope_toki.tooltip":"Secret Time's scope. with its cold and sleek appearance, resembles its owner.\nAlthough it looks quite sci-fi, it can’t auto-aim… or rather, it shouldn't be able to auto-aim, right?",
+  "bluearchive.ammo.ammog11toki.name":"4.3mm caseless ammunition",
+
+  "bluearchive.gun.momoi.name": "§dUnique Idea ",
+  "bluearchive.gun.momoi.tooltip":"An assault rifle used by Momoi.She has an accessory given to her by his dear sister, and when she is in trouble, she plays with it and it seems to spark an idea.",
+
+
+
+
+   "bluearchive.gun.mika.name": "§dQuis ut Deus",
+  "bluearchive.gun.mika.tooltip":"A submachine gun that Mika loves. An ordinary submachine gun made by Trinity, decorated with Mika's heart. Now it has a special appearance that shines like a star even in the darkness. Works for Mika anytime, anywhere."
+}

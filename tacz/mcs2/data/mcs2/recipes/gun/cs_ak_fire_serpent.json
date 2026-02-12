@@ -1,0 +1,56 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:honeycomb"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/light_gray"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/lime"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/black"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/cyan"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "mcs2:cs_ak"
+        },
+        "count": 1
+      }
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "mcs2:cs_ak_fire_serpent",
+    "count": 1
+  }
+}

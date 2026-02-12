@@ -1,0 +1,9 @@
+{
+  "name": "eos.gun.wa2000.name",
+  "display": "eos:wa2000_display",
+  "data": "eos:wa2000_data",
+  "tooltip": "eos.gun.wa2000.desc",
+  "type": "sniper",
+  "item_type": "modern_kinetic",
+  "sort": 16
+}

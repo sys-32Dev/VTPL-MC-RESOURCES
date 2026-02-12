@@ -1,0 +1,8 @@
+{
+  "name": "mcs2.gun.cs_awp.name",
+  "display": "mcs2:cs_awp_display",
+  "data": "mcs2:cs_awp_data",
+  "tooltip": "mcs2.gun.cs_awp.desc",
+  "type": "sniper",
+  "sort":"10"
+}

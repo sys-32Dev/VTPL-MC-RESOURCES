@@ -1,0 +1,9 @@
+{
+  "slot": "helldiver2:attachment/slot/muzzle_conpensator_civilization",
+  "model": "helldiver2:attachment/muzzle_conpensator_civilization_geo",
+  "texture": "helldiver2:attachment/uv/muzzle_conpensator_civilization",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

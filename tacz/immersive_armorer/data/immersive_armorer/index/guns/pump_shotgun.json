@@ -1,0 +1,7 @@
+{
+    "name": "immersive_armorer.gun.pump_shotgun",
+    "display": "immersive_armorer:pump_shotgun_display",
+    "data": "immersive_armorer:pump_shotgun_data",
+    "type": "shotgun",
+    "sort": 300
+}

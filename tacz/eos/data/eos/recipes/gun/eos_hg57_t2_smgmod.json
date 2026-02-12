@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "eos:eos_hg57_t2"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/glowstone"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "eos:eos_hg57_t2_smgmod"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

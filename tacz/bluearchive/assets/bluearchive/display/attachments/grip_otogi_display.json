@@ -1,0 +1,9 @@
+{
+  "model": "bluearchive:attachment/grip_otogi_geo",
+  "slot": "bluearchive:attachment/slot/otogigrip",
+  "texture": "bluearchive:attachment/uv/otogigrip",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

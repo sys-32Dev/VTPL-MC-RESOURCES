@@ -1,0 +1,8 @@
+{
+  "name": "mcs2.gun.cs_awp_dragon_lore.name",
+  "display": "mcs2:cs_awp_dragon_lore_display",
+  "data": "mcs2:cs_awp_dragon_lore_data",
+  "tooltip": "mcs2.gun.cs_awp_dragon_lore.desc",
+  "type": "sniper",
+  "sort":"11"
+}

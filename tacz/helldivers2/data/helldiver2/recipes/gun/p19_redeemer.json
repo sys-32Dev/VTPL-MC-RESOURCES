@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "helldiver2:p19_redeemer"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

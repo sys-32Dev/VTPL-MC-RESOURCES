@@ -1,0 +1,101 @@
+{
+  "pack.mcs2.name": "MCS2附属包",
+  "pack.mcs2.desc": "反恐精英，再度闪耀.",          
+        "mcs2.ammo.45acp.name": ".45 acp",
+
+        "mcs2.ammo.melee_weapon.name": "近战武器",
+        "mcs2.knife.ct_knife.name":"匕首",
+        "mcs2.knife.ct_knife.desc":"“是的这是一份礼物（我认真的）”",
+        "mcs2.knife.t_knife.name":"匕首",
+        "mcs2.knife.t_knife.desc":"“哥BUFF发货人怎么是你啊？”",
+
+        "mcs2.gun.cs_usp.name": "USP 消音版",
+        "mcs2.attachment.usp_silencer.name":"USP-S 消音器",
+        "mcs2.gun.cs_usp.desc":"·精准、消音、（某种程度上）致命\n·建议在第一回合上半场购入\n·上手难度：★★",
+
+        "mcs2.gun.cs_m4a1s.name":"M4A1 消音版",
+        "mcs2.attachment.m4a1s_silencer.name":"M4A1-S 消音器",
+        "mcs2.gun.cs_m4a1s.desc":"·精准、消音、不漏痕迹\n·建议在全起局中购入\n·上手难度：★★★",
+
+        "mcs2.gun.cs_ak.name":"AK-47",
+        "mcs2.gun.cs_ak.desc":"·经典、精准且致命的主力武器\n·建议在全起局中购入\n·上手难度：★★★★",
+
+        "mcs2.gun.cs_glock.name":"格洛克18型",
+        "mcs2.gun.cs_glock.desc":"·近距离致命，远距离可用作骚扰\n·建议在第一回合上半场购入\n·上手难度：★★",
+
+        "mcs2.gun.cs_awp.name":"AWP",
+        "mcs2.gun.cs_awp.desc":"·为自信的狙击手提供毁灭性杀伤力\n·建议在全起局中购入\n·上手难度：★★★",
+        "mcs2.attachment.awp_scope.name":"AWP 4倍变焦器",
+        
+        "mcs2.knife.karambit.name":"§4爪子刀（★）",
+        "mcs2.knife.karambit.desc":"§7其弯曲的刀片如同猛虎的利爪一般，\n爪子刀是作为东南亚马来武术的一部分被研制出来的。\n这把匕首通常是用食指和无名指反握使用的。",
+        "mcs2.knife.butterfly_knife.name":"§4蝴蝶刀（★）",
+        "mcs2.knife.butterfly_knife.desc":"§7这是一把特别设计的甩刀，也就是人们常说的蝴蝶刀。\n这把武器的最典型特征它那像扇子一样自由甩动的刀片，\n可以杀人于无形之中。也正因如此，蝴蝶刀被许多国家所禁止。",
+        
+
+        "mcs2.gun.cs_usp_printstream.name":"§4USP 消音版 | 印花集",
+        "mcs2.gun.cs_usp_printstream.desc":"§7这把武器使用鲜明的黑白色调设计进行了自定义涂装，\n最后用珍珠般高光加以点缀。\n§7§o白色；黑色；珍珠色；消音；手枪；",
+        "mcs2.gun.cs_usp_royal_blue.name":"§bUSP 消音版 | 宝蓝之色",
+        "mcs2.gun.cs_usp_royal_blue.desc":"§7这把武器使用紫青色、深红色和灰色进行了整体喷漆。\n§7§o费利克斯，你应该保持微笑，如果你不像现在这样总是摆一副苦逼脸的话肯定会有桃花运。- 实习军火商伊莫金",
+        "mcs2.gun.cs_usp_stainless.name":"§9USP 消音版 | 不锈钢",
+        "mcs2.gun.cs_usp_stainless.desc":"§7这把武器附上了不锈钢的滑套\n§7§o<军火交易 3 号收藏品>",
+        "mcs2.gun.cs_usp_whiteout.name":"§dUSP 消音版 | 银装素裹",
+        "mcs2.gun.cs_usp_whiteout.desc":"§7这把武器全身漆满了白色。\n§7§o它外表纯洁，但表象可能带有欺骗性",
+
+        "mcs2.gun.cs_m4a1s_atomic_alloy.name":"§dM4A1 消音版 | 原子合金",
+        "mcs2.gun.cs_m4a1s_atomic_alloy.desc":"§7这把武器被电镀上了黑色和橙色。\n§7§o<猎杀者收藏品>",
+        "mcs2.gun.cs_m4a1s_blue_phosphor.name":"§dM4A1 消音版 | 澜磷",
+        "mcs2.gun.cs_m4a1s_blue_phosphor.desc":"§7这把武器采用多层金属质感的蓝色喷涂，表面另附上铬涂层处理。\n§7§o闷闷不乐吗？",
+        "mcs2.gun.cs_m4a1s_chantico_fire.name":"§4M4A1 消音版 | 女火神之炽焰",
+        "mcs2.gun.cs_m4a1s_chantico_fire.desc":"§7这件武器手工涂装，色彩艳丽，枪托有笑脸装饰。\n§7§o保护好属于你的",
+        "mcs2.gun.cs_m4a1s_emphorosaur_s.name":"§5M4A1 消音版 | 隐伏帝王龙",
+        "mcs2.gun.cs_m4a1s_emphorosaur_s.desc":"§7这把武器使用像一只恐龙从武器的一面撕裂到\n另一面的图案进行了自定义涂装。\n§7§o疯狂撕咬",
+        "mcs2.gun.cs_m4a1s_hot_rod.name":"§dM4A1 消音版 | 赤红新星",
+        "mcs2.gun.cs_m4a1s_hot_rod.desc":"§7这把武器使用铬外表，通过半透明的红色电镀处理进行了涂装。\n§7§o自动液压传动系统",
+        "mcs2.gun.cs_m4a1s_knight.name":"§dM4A1 消音版 | 骑士",
+        "mcs2.gun.cs_m4a1s_knight.desc":"§7这把武器使用文艺复兴时期的铠甲主题图案，以黄铜进行了镶嵌。\n§7§o你说你找不到库西内罗和伊崎是什么意思？- 指挥官费利克斯.莱利",
+        "mcs2.gun.cs_m4a1s_nitro.name":"§5M4A1 消音版 | 氮化处理",
+        "mcs2.gun.cs_m4a1s_nitro.desc":"§7这把武器的部分零件用黑色和蜜桔色进行了喷漆。\n§7§o罗纳与她对自己的评价一样出色……她只是太年轻，\n而没有意识到并不该向所有人透露出这点 - 指挥官费利克斯.莱利",
+        "mcs2.gun.cs_m4a1s_printstream.name":"§4M4A1 消音版 | 印花集",
+        "mcs2.gun.cs_m4a1s_printstream.desc":"§7这把武器使用鲜明的黑白色调设计进行了自定义涂装，\n最后用珍珠般高光加以点缀。\n§7§o白色；黑色；珍珠色；消音；",
+
+        "mcs2.gun.cs_ak_ice_coaled.name":"§dAK47 | 可燃冰",
+        "mcs2.gun.cs_ak_ice_coaled.desc":"§7这把武器采用醒目的绿色和蓝色渐变进行了自定义涂装。\n§7§o触感冰冷",
+        "mcs2.gun.cs_ak_vulcan.name":"§4AK47 | 火神",
+        "mcs2.gun.cs_ak_vulcan.desc":"§7这把武器使用运动风格的设计进行了自定义涂装。\n§7§o<猎杀者收藏品>",
+        "mcs2.gun.cs_ak_elite_build.name":"§9AK47 | 精英之作",
+        "mcs2.gun.cs_ak_elite_build.desc":"§7这把武器将花纹和严谨的漏印结合起来，通过热转印贴花加强细节，然后进行了自定义涂装。\n§7§o…… 和你干同一个行当的人可不是以长命著称的呢-《盾与蛇（下）》",
+        "mcs2.gun.cs_ak_fire_serpent.name":"§4AK47 | 火蛇",
+        "mcs2.gun.cs_ak_fire_serpent.desc":"§7这把来自玛雅遗址的纪念武器使用火蛇图案进行了涂装。\n§7§o不想抛尸街头的话就去学喷火",
+        "mcs2.gun.cs_ak_green_laminate.name":"§9AK47 | 绿色层压板",
+        "mcs2.gun.cs_ak_green_laminate.desc":"§7这把AK的握把、枪托和护木都采用了绿色层压材料\n§7§o事情就是如此简单",
+
+
+        "mcs2.gun.cs_ak_fuel_injector.name":"§4AK47 | 燃料喷射器",
+        "mcs2.gun.cs_ak_fuel_injector.desc":"§4人生得意须尽欢 莫使金枪空对月",
+
+
+        "mcs2.gun.cs_ak_asiimov.name":"§4AK47 | 二西莫夫",
+        "mcs2.gun.cs_ak_asiimov.desc":"§7这把武器使用科幻设计进行了自定义涂装。\n§7§o平凡人预测未来……梦想家塑造未来",
+        "mcs2.gun.cs_ak_abyssal_apparition.name":"§a§mAK47 | 幽幻深渊",
+        "mcs2.gun.cs_ak_abyssal_apparition.desc":"§7这把武器的自定义涂装描绘了被遗弃的灵魂坠入噩梦的深渊。\n§7§o你无法逃避自己的命运",
+    
+        "mcs2.gun.cs_glock_bunsen_burner.name":"§9格洛克18型 | 本生灯",
+        "mcs2.gun.cs_glock_bunsen_burner.desc":"§7这把武器被附上了蓝色铜绿，其中滑动的部件被打磨，从而造成图形火焰设计图案的出现\n§7§o咚咚",
+        "mcs2.gun.cs_glock_candy_apple.name":"§9格洛克18型 | 红苹果",
+        "mcs2.gun.cs_glock_candy_apple.desc":"§7这把武器的部分零件以红色和黑色的配色方案进行了整体喷漆\n§7§o<意大利小镇收藏品>",
+        "mcs2.gun.cs_glock_dragon_tattoo.name":"§5格洛克18型 | 黑龙纹身",
+        "mcs2.gun.cs_glock_dragon_tattoo.desc":"§7这把武器以金属为外表，然后使用黑龙贴花进行了涂装\n§7§o在童话故事中，骑士永远扮演着屠龙者的角色... 可惜，你是活在现实世界中的 - 革命者瓦莱里娅.琴纳",
+        "mcs2.gun.cs_glock_high_beam.name":"§9格洛克18型 | 远光灯",
+        "mcs2.gun.cs_glock_high_beam.desc":"§7这把武器的套筒上采用了蓝色螺旋图案\n§7§o要失守，不容易",
+        "mcs2.gun.cs_glock_moonrise.name":"§5格洛克18型 | 城里的月光",
+        "mcs2.gun.cs_glock_moonrise.desc":"§7前景中的随机城市景观挡不住一轮满月与紫色夜空\n§7§o寻找北极星",
+        "mcs2.gun.cs_glock_reactor.name":"§9格洛克18型 | 核子反应",
+        "mcs2.gun.cs_glock_reactor.desc":"§7这把武器使用金属漆画成的核污染标志进行了涂装\n§7§o<死城之谜收藏品>",
+        
+        "mcs2.gun.cs_awp_fade.name":"§4AWP | 渐变之色",
+        "mcs2.gun.cs_awp_fade.desc":"§7这把武器以铬为外表，使用喷笔涂上了相互渐变的透明涂装。\n§7§o这不仅仅是一把武器，更是一种潮流 - 实习军火商伊莫金",
+        "mcs2.gun.cs_awp_dragon_lore.name":"§4AWP | 巨龙传说",
+        "mcs2.gun.cs_awp_dragon_lore.desc":"这把武器使用凯尔特龙的图案进行了自定义涂装。\n§7§o200 把钥匙绝对无法解开它的秘密"
+       
+}

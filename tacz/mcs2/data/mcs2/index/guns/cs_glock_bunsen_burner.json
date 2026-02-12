@@ -1,0 +1,9 @@
+{
+  "name": "mcs2.gun.cs_glock_bunsen_burner.name",
+  "display": "mcs2:cs_glock_bunsen_burner_display",
+  "data": "mcs2:cs_glock_data",
+  "tooltip": "mcs2.gun.cs_glock_bunsen_burner.desc",
+  "type": "pistol",
+  "item_type": "modern_kinetic",
+  "sort": 13
+}

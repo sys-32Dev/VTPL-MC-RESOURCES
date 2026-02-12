@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "immersive_armorer:grip_aluminium"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

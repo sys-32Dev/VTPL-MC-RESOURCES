@@ -1,0 +1,9 @@
+{
+  "name": "eos.gun.eos_hg57_t2_smgmod.name",
+  "display": "eos:eos_hg57_t2_smgmod_display",
+  "data": "eos:eos_hg57_t2_smgmod_data",
+  "tooltip": "eos.gun.eos_hg57_t2_smgmod.desc",
+  "type": "smg",
+  "item_type": "modern_kinetic",
+  "sort": 16
+}

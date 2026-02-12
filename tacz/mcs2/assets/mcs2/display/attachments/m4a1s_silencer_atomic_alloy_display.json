@@ -1,0 +1,24 @@
+{
+  
+  "slot": "mcs2:attachments/slot/m4a1s_silencer_atomic_alloy",
+  
+  "model": "mcs2:attachments/m4a1s_silencer_geo",
+  
+  "texture": "mcs2:attachments/uv/m4a1s_silencer_atomic_alloy",
+  
+
+  
+  
+  "scope": false,
+  
+  "sight": false,
+
+  "fov": 70.0,
+  
+  "sounds": {
+   
+    "install": "mcs2:attachments/m4a1s_on",
+   
+    "uninstall": "mcs2:attachments/m4a1s_off"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "weight": 0.1,
+  "recoil_modifier": {
+    "yaw": -0.1,
+    "pitch": -0.15
+  }
+}

@@ -1,0 +1,53 @@
+{
+    "model": "immersive_armorer:gun/chemical_thrower_geo",
+    "texture": "immersive_armorer:gun/uv/chemical_thrower",
+    "hud": "immersive_armorer:gun/hud/chemical_thrower",
+    "slot": "immersive_armorer:gun/slot/chemical_thrower",
+    "animation": "immersive_armorer:chemical_thrower",
+    "use_default_animation": "rifle",
+    "ammo_count_style": "percent",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.2,
+                1.2,
+                1.2
+            ]
+        }
+    },
+    "text_show": {
+        "ammo_display": {
+        "scale": 1,
+        "align": "center",
+        "shadow": flase,
+        "color": "#fb6843",
+        "light": 8,
+        "text": "%ammo_count%"
+        }
+    },
+    "sounds": {
+        "shoot": "immersive_armorer:chemical_thrower/chemical_thrower_shoot",
+        "shoot_3p": "immersive_armorer:chemical_thrower/chemical_thrower_shoot",
+        "reload_empty": "immersive_armorer:chemical_thrower/chemical_thrower_reload",
+        "reload_tactical": "immersive_armorer:chemical_thrower/chemical_thrower_reload",
+        "melee_bayonet": "immersive_armorer:attachment_bayonet/bayonet_attack1",
+        "inspect": "immersive_armorer:chemical_thrower/chemical_thrower_inspect",
+        "inspect_empty": "immersive_armorer:chemical_thrower/chemical_thrower_inspect",
+        "draw": "immersive_armorer:chemical_thrower/chemical_thrower_draw",
+        "dry_fire": "immersive_armorer:dry_fire/dry_fire_gas",
+        "put_away": "immersive_armorer:chemical_thrower/chemical_thrower_put_away",
+        "silence": "immersive_armorer:chemical_thrower/chemical_thrower_silence",
+        "silence_3p": "immersive_armorer:chemical_thrower/chemical_thrower_silence"
+    }
+}

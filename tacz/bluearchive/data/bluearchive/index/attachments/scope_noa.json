@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.scope_noa.name",
+  "tooltip": "bluearchive.attachment.scope_noa.tooltip",
+  "display": "bluearchive:scope_noa_display",
+  "data": "bluearchive:scope_noa_data",
+  "type": "scope"
+}

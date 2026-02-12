@@ -1,0 +1,83 @@
+{
+  "model": "lrtactical:melee/hardened_katana_geo",
+  "animation": "lrtactical:melee/baseball_bat",
+  "state_machine": "lrtactical:default_melee_state_machine",
+  "texture": "lrtactical:melee/hardened_katana_uv",
+  "slot_texture": "lrtactical:melee/slot/hardened_katana_slot",
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        -7.5,
+        1.25
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        -7.5,
+        1.5
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        -8.5,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        -9,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        -85.77,
+        -58.26,
+        -85.43
+      ],
+      "translation": [
+        -6.5,
+        -9,
+        0.5
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "head": {
+      "rotation": [
+        -75.5,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -26,
+        2.5
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        86.73,
+        -47.3,
+        88.56
+      ],
+      "translation": [
+        8.75,
+        -9,
+        0.5
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+    "model": "immersive_armorer:gun/assult_rifle_geo",
+    "texture": "immersive_armorer:gun/uv/assult_rifle",
+    "hud": "immersive_armorer:gun/hud/assult_rifle",
+    "slot": "immersive_armorer:gun/slot/assult_rifle",
+    "animation": "immersive_armorer:assult_rifle",
+    "use_default_animation": "rifle",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.2,
+                1.2,
+                1.2
+            ]
+        }
+    },
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 1
+    },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+    "sounds": {
+        "shoot": "immersive_armorer:assult_rifle/assult_rifle_shoot",
+        "shoot_3p": "immersive_armorer:assult_rifle/assult_rifle_shoot",
+        "reload_empty": "immersive_armorer:assult_rifle/assult_rifle_reload",
+        "reload_tactical": "immersive_armorer:assult_rifle/assult_rifle_reload",
+        "inspect": "immersive_armorer:assult_rifle/assult_rifle_inspect",
+        "inspect_empty": "immersive_armorer:assult_rifle/assult_rifle_inspect",
+        "draw": "immersive_armorer:assult_rifle/assult_rifle_draw",
+        "dry_fire": "immersive_armorer:dry_fire/dry_fire",
+        "put_away": "immersive_armorer:assult_rifle/assult_rifle_put_away",
+        "silence": "immersive_armorer:assult_rifle/assult_rifle_silence",
+        "silence_3p": "immersive_armorer:assult_rifle/assult_rifle_silence"
+    }
+}

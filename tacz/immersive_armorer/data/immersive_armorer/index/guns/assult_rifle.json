@@ -1,0 +1,7 @@
+{
+    "name": "immersive_armorer.gun.assult_rifle",
+    "display": "immersive_armorer:assult_rifle_display",
+    "data": "immersive_armorer:assult_rifle_data",
+    "type": "rifle",
+    "sort": 300
+}

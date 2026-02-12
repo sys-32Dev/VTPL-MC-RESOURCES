@@ -1,0 +1,39 @@
+  {
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 128
+    },
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "lrtactical:melee",
+    "item": {
+      "item": "lrtactical:melee",
+      "nbt": {
+        "MeleeWeaponId": "lrtactical:hardened_katana"
+      }
+    }
+  }
+}

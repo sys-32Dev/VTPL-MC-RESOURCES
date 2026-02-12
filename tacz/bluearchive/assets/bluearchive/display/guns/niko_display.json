@@ -1,0 +1,32 @@
+{
+  "model": "bluearchive:gun/niko_geo",
+  "texture": "bluearchive:gun/uv/niko",
+  "slot": "bluearchive:gun/slot/niko",
+  "hud": "bluearchive:gun/hud/niko",
+  "third_person_animation": "default",
+  "sounds": {
+    "shoot": "bluearchive:item/niko",
+    "shoot_3p": "bluearchive:item/niko",
+    "dry_fire": "tacz:dry_fire",
+    "silence": "bluearchive:item/miyako_sli",
+    "silence_3p": "bluearchive:item/miyako_sli",
+    "reload_tactical":"bluearchive:item/niko_reloadempty",
+    "reload_empty":"bluearchive:item/niko_reloadempty",
+    "inspect": "bluearchive:item/niko_inspect",
+    "inspect_empty": "bluearchive:item/niko_inspect",
+    "draw": "bluearchive:item/yukino_draw"
+},
+"shell": {
+  "initial_velocity": [5, 2, 1],
+  "random_velocity": [1, 1, 0.25],
+  "acceleration": [0.0, -10, 0.0],
+  "angular_velocity": [360, -1200, 90],
+  "living_time": 1.0
+},
+  "muzzle_flash": {
+  "texture": "tacz:flash/common_muzzle_flash",
+  "scale": 1
+},
+"animation": "bluearchive:niko",
+"use_default_animation": "rifle"
+}

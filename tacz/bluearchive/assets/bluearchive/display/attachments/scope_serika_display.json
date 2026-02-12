@@ -1,0 +1,12 @@
+{
+  "model": "bluearchive:attachment/scope_serika_geo",
+  "slot": "bluearchive:attachment/slot/serikascope",
+  "texture": "bluearchive:attachment/uv/serikascope",
+  "zoom": [
+    2.0,
+    4.0,
+    8.0
+  ],
+  "scope": true,
+  "fov": 70.0
+}

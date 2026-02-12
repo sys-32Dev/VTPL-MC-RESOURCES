@@ -1,0 +1,15 @@
+{
+   
+    "name": "mcs2.gun.cs_m4a1s_emphorosaur_s.name",
+   
+    "display": "mcs2:cs_m4a1s_emphorosaur_s_display",
+    
+    "data": "mcs2:cs_m4a1s_data",
+    "tooltip": "mcs2.gun.cs_m4a1s_emphorosaur_s.desc",
+   
+    "type": "rifle",
+    
+    "item_type": "modern_kinetic",
+   
+    "sort": 14
+}

@@ -1,0 +1,31 @@
+{
+  "model": "bluearchive:gun/shiroko_geo",
+  "texture": "bluearchive:gun/uv/shiroko",
+  "slot": "bluearchive:gun/slot/shiroko",
+  "hud": "bluearchive:gun/hud/shiroko",
+  "third_person_animation": "default",
+  "sounds": {
+    "shoot": "bluearchive:item/shiroko",
+    "shoot_3p": "bluearchive:item/shiroko",
+    "silence": "bluearchive:item/miyako_sli",
+    "silence_3p": "bluearchive:item/miyako_sli",
+    "dry_fire": "tacz:dry_fire",
+    "reload_tactical":"bluearchive:item/shiroko_reload",
+    "reload_empty":"bluearchive:item/shiroko_reloadempty",
+    "inspect": "bluearchive:item/shiroko_inspect",
+    "inspect_empty": "bluearchive:item/shiroko_inspect"
+},
+"shell": {
+  "initial_velocity": [5, 2, 1],
+  "random_velocity": [1, 1, 0.25],
+  "acceleration": [0.0, -10, 0.0],
+  "angular_velocity": [360, -1200, 90],
+  "living_time": 1.0
+},
+  "muzzle_flash": {
+  "texture": "tacz:flash/common_muzzle_flash",
+  "scale": 1
+},
+"animation": "bluearchive:shiroko",
+"use_default_animation": "rifle"
+}

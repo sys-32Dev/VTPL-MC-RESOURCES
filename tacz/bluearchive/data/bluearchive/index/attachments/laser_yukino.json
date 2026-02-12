@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.laser_yukino.name",
+  "tooltip": "bluearchive.attachment.laser_yukino.tooltip",
+  "display": "bluearchive:laser_yukino_display",
+  "data": "bluearchive:laser_yukino_data",
+  "type": "laser"
+}

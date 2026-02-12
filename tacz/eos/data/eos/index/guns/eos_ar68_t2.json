@@ -1,0 +1,9 @@
+{
+  "name": "eos.gun.eos_ar68_t2.name",
+  "display": "eos:eos_ar68_t2_display",
+  "data": "eos:eos_ar68_t2_data",
+  "tooltip": "eos.gun.eos_ar68_t2.desc",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 16
+}

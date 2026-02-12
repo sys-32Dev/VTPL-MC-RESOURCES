@@ -1,0 +1,46 @@
+{
+    "model": "immersive_armorer:gun/pump_shotgun_geo",
+    "texture": "immersive_armorer:gun/uv/pump_shotgun",
+    "hud": "immersive_armorer:gun/hud/pump_shotgun",
+    "slot": "immersive_armorer:gun/slot/pump_shotgun",
+    "animation": "immersive_armorer:pump_shotgun",
+    "use_default_animation": "rifle",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.2,
+                1.2,
+                1.2
+            ]
+        }
+    },
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 1
+    },
+    "sounds": {
+        "shoot": "immersive_armorer:pump_shotgun/pump_shotgun_shoot",
+        "shoot_3p": "immersive_armorer:pump_shotgun/pump_shotgun_shoot",
+        "reload_empty": "immersive_armorer:pump_shotgun/pump_shotgun_reload_empty",
+        "reload_tactical": "immersive_armorer:pump_shotgun/pump_shotgun_reload_tactical",
+        "inspect": "immersive_armorer:pump_shotgun/pump_shotgun_inspect",
+        "inspect_empty": "immersive_armorer:pump_shotgun/pump_shotgun_inspect_empty",
+        "draw": "immersive_armorer:pump_shotgun/pump_shotgun_draw",
+        "dry_fire": "immersive_armorer:dry_fire/dry_fire",
+        "put_away": "immersive_armorer:pump_shotgun/pump_shotgun_put_away",
+        "bolt": "immersive_armorer:pump_shotgun/pump_shotgun_bolt",
+        "silence": "immersive_armorer:pump_shotgun/pump_shotgun_silence",
+        "silence_3p": "immersive_armorer:pump_shotgun/pump_shotgun_silence"
+    }
+}

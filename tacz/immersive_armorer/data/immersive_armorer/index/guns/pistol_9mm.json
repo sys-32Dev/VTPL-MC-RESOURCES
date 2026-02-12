@@ -1,0 +1,8 @@
+{
+    "name": "immersive_armorer.gun.pistol_9mm",
+    "display": "immersive_armorer:pistol_9mm_display",
+    "data": "immersive_armorer:pistol_9mm_data",
+    "tooltip": "immersive_armorer.tooltip.pistol_9mm",
+    "type": "pistol",
+    "sort": 305
+}

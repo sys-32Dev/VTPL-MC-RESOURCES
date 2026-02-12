@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.grip_shiroko.name",
+  "tooltip": "bluearchive.attachment.grip_shiroko.tooltip",
+  "display": "bluearchive:grip_shiroko_display",
+  "data": "bluearchive:grip_shiroko_data",
+  "type": "grip"
+}

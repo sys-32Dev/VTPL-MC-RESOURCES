@@ -1,0 +1,11 @@
+{
+  "model": "bluearchive:attachment/scope_fuuka_geo",
+  "slot": "bluearchive:attachment/slot/fuukascope",
+  "texture": "bluearchive:attachment/uv/fuukascope",
+  "zoom": [
+    2.0,
+    4.0
+  ],
+  "scope": true,
+  "fov": 70.0
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.grip_fuuka.name",
+  "tooltip": "bluearchive.attachment.grip_fuuka.tooltip",
+  "display": "bluearchive:grip_fuuka_display",
+  "data": "bluearchive:grip_fuuka_data",
+  "type": "grip"
+}

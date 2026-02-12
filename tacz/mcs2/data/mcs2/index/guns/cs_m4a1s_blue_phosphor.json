@@ -1,0 +1,15 @@
+{
+   
+    "name": "mcs2.gun.cs_m4a1s_blue_phosphor.name",
+   
+    "display": "mcs2:cs_m4a1s_blue_phosphor_display",
+    
+    "data": "mcs2:cs_m4a1s_data",
+    "tooltip": "mcs2.gun.cs_m4a1s_blue_phosphor.desc",
+   
+    "type": "rifle",
+    
+    "item_type": "modern_kinetic",
+   
+    "sort": 14
+}

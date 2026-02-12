@@ -1,0 +1,31 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 29
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:quartz"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "mcs2:cs_m4a1s",
+    "attachments": {
+      "muzzle": "mcs2:m4a1s_silencer"
+    },
+    "count": 1
+  }
+}

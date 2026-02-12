@@ -1,0 +1,53 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:honeycomb"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "item": "minecraft:prismarine_shard"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "item": "minecraft:prismarine_crystals"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "mcs2:cs_m4a1s"
+        }
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "mcs2:cs_m4a1s_blue_phosphor",
+    "attachments": {
+      "muzzle": "mcs2:m4a1s_silencer_blue_phosphor"
+    },
+    "count": 1
+  }
+}

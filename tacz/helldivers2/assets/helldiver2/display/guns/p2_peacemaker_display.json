@@ -1,0 +1,56 @@
+{
+    "model": "helldiver2:gun/p2_peacemaker_geo",
+    "texture": "helldiver2:gun/uv/p2_peacemaker",
+    "lod": {
+        "model": "helldiver2:gun/lod/p2_peacemaker_lod",
+        "texture": "helldiver2:gun/lod/p2_peacemaker_lod"
+    },
+    "slot": "helldiver2:gun/slot/p2_peacemaker",
+    "animation": "helldiver2:p2_peacemaker",
+    "use_default_animation": "pistol",
+    "hud": "helldiver2:gun/hud/p2_peacemaker",
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 1
+    },
+    "shell": {
+        "initial_velocity": [5, 2, 1],
+        "random_velocity": [1, 1, 0.25],
+        "acceleration": [0.0, -10, 0.0],
+        "angular_velocity": [360, -1200, 90],
+        "living_time": 1.0
+    },
+    "sounds": {
+        "draw": "helldiver2:p2_peacemaker/p2_peacemaker_draw",
+        "dry_fire": "helldiver2:p2_peacemaker/p2_peacemaker_dry_fire",
+        "reload_empty": "helldiver2:p2_peacemaker/p2_peacemaker_reload_empty",
+        "reload_tactical": "helldiver2:p2_peacemaker/p2_peacemaker_reload_tactical",
+        "inspect": "helldiver2:p2_peacemaker/p2_peacemaker_inspect",
+        "inspect_empty": "helldiver2:p2_peacemaker/p2_peacemaker_inspect_empty",
+        "put_away": "helldiver2:p2_peacemaker/p2_peacemaker_put_away",
+        "shoot": "helldiver2:p2_peacemaker/p2_peacemaker_shoot",
+        "shoot_3p": "helldiver2:p2_peacemaker/p2_peacemaker_shoot",
+        "silence": "helldiver2:p2_peacemaker/p2_peacemaker_shoot_silence",
+        "silence_3p": "helldiver2:p2_peacemaker/p2_peacemaker_shoot_silence"
+    },
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "third_person_animation": "default"
+}

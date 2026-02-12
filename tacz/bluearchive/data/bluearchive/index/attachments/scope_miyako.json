@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.scope_miyako.name",
+  "tooltip": "bluearchive.attachment.scope_miyako.tooltip",
+  "display": "bluearchive:scope_miyako_display",
+  "data": "bluearchive:scope_miyako_data",
+  "type": "scope"
+}

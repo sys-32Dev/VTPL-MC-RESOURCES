@@ -1,0 +1,32 @@
+{
+  "model": "bluearchive:gun/serika_geo",
+  "texture": "bluearchive:gun/uv/serika",
+  "slot": "bluearchive:gun/slot/serika",
+  "hud": "bluearchive:gun/hud/serika",
+  "third_person_animation": "default",
+  "sounds": {
+    "shoot": "bluearchive:item/serika",
+    "shoot_3p": "bluearchive:item/serika",
+    "silence": "bluearchive:item/miyako_sli",
+    "silence_3p": "bluearchive:item/miyako_sli",
+    "dry_fire": "tacz:dry_fire",
+    "reload_tactical":"bluearchive:item/serika_reload",
+    "reload_empty":"bluearchive:item/serika_reloadempty",
+    "inspect": "bluearchive:item/serika_inspect",
+    "inspect_empty": "bluearchive:item/serika_inspect"
+
+},
+"shell": {
+  "initial_velocity": [5, 2, 1],
+  "random_velocity": [1, 1, 0.25],
+  "acceleration": [0.0, -10, 0.0],
+  "angular_velocity": [360, -1200, 90],
+  "living_time": 1.0
+},
+  "muzzle_flash": {
+  "texture": "tacz:flash/common_muzzle_flash",
+  "scale": 1
+},
+"animation": "bluearchive:serika",
+"use_default_animation": "rifle"
+}

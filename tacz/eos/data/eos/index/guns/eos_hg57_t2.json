@@ -1,0 +1,8 @@
+{
+  "name": "eos.gun.eos_hg57_t2.name",
+  "display": "eos:eos_hg57_t2_display",
+  "data": "eos:eos_hg57_t2_data",
+  "tooltip": "eos.gun.eos_hg57_t2.desc",
+  "type": "pistol",
+  "sort": 16
+}

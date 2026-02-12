@@ -1,0 +1,8 @@
+{
+  "name": "eos.attachment.bayonet_rebellion_of_kronus.name",
+  "tooltip": "eos.attachment.bayonet_rebellion_of_kronus.desc",
+  "display": "eos:bayonet_rebellion_of_kronus_display",
+  "data": "eos:bayonet_rebellion_of_kronus_data",
+  "type": "muzzle",
+  "sort": 256
+}

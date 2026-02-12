@@ -1,0 +1,7 @@
+{
+  "name": "mcs2.ammo.melee_weapon.name",
+  "display": "mcs2:melee_weapon_display",
+  "tooltip": "mcs2.ammo.melee_weapon.tooltip",
+  "stack_size": 1
+}
+    

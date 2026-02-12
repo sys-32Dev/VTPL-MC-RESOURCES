@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 48
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/cyan"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "helldiver2:sg225_breaker"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

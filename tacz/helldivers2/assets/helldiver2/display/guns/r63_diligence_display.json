@@ -1,0 +1,56 @@
+{
+    "model": "helldiver2:gun/r63_diligence_geo",
+    "texture": "helldiver2:gun/uv/r63_diligence",
+    "lod": {
+        "model": "helldiver2:gun/lod/r63_diligence_lod",
+        "texture": "helldiver2:gun/lod/r63_diligence_lod"
+    },
+    "slot": "helldiver2:gun/slot/r63_diligence",
+    "animation": "helldiver2:r63_diligence",
+    "use_default_animation": "rifle",
+    "hud": "helldiver2:gun/hud/r63_diligence",
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 1
+    },
+    "shell": {
+        "initial_velocity": [5, 2, 1],
+        "random_velocity": [1, 1, 0.25],
+        "acceleration": [0.0, -10, 0.0],
+        "angular_velocity": [360, -1200, 90],
+        "living_time": 1.0
+    },
+    "sounds": {
+        "draw": "helldiver2:r63_diligence/r63_diligence_draw",
+        "dry_fire": "helldiver2:r63_diligence/r63_diligence_dry_fire",
+        "reload_empty": "helldiver2:r63_diligence/r63_diligence_reload_empty",
+        "reload_tactical": "helldiver2:r63_diligence/r63_diligence_reload_tactical",
+        "inspect": "helldiver2:r63_diligence/r63_diligence_inspect",
+        "inspect_empty": "helldiver2:r63_diligence/r63_diligence_inspect_empty",
+        "put_away": "helldiver2:r63_diligence/r63_diligence_put_away",
+        "shoot": "helldiver2:r63_diligence/r63_diligence_shoot",
+        "shoot_3p": "helldiver2:r63_diligence/r63_diligence_shoot",
+        "silence": "helldiver2:r63_diligence/r63_diligence_shoot_silence",
+        "silence_3p": "helldiver2:r63_diligence/r63_diligence_shoot_silence"
+    },
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "third_person_animation": "default"
+}

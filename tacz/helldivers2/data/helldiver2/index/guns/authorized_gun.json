@@ -1,0 +1,8 @@
+{
+    "name": "helldiver2.gun.authorized_gun.name",
+    "display": "helldiver2:authorized_gun_display",
+    "data": "helldiver2:authorized_gun_data",
+    "type": "pistol",
+    "item_type": "modern_kinetic",
+    "sort": 52
+}

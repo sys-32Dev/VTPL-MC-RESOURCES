@@ -1,0 +1,31 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:coal"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/black"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "mcs2:usp_silencer"
+        }
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "mcs2:usp_silencer_stainless"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:glass"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "immersive_armorer:stream_capacitor",
+    "count": 30
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 96
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 24
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "eos:elp_72_t3",
+    "attachments": {
+      "muzzle": "eos:bayonet_katana"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

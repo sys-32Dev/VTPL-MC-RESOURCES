@@ -1,0 +1,9 @@
+{
+  "slot": "helldiver2:attachment/slot/grip_union",
+  "model": "helldiver2:attachment/grip_union_geo",
+  "texture": "helldiver2:attachment/uv/grip_union",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

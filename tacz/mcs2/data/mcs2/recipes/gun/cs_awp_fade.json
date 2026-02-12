@@ -1,0 +1,50 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:honeycomb"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/orange"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/red"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/magenta"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/purple"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "mcs2:cs_awp"
+        },
+        "count": 1
+      }
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "mcs2:cs_awp_fade",
+    "count": 1
+  }
+}

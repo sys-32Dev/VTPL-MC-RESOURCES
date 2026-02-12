@@ -1,0 +1,9 @@
+{
+  "name": "bluearchive.gun.shiroko.name",
+  "tooltip": "bluearchive.gun.shiroko.tooltip",
+  "display": "bluearchive:shiroko_display",
+  "data": "bluearchive:shiroko_data",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 2
+}

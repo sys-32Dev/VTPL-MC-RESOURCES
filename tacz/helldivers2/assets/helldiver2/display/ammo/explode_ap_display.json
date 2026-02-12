@@ -1,0 +1,10 @@
+{
+  "slot": "helldiver2:ammo/slot/explode_ap",
+  "model": "helldiver2:ammo/explode_ap",
+  "texture": "helldiver2:ammo/uv/explode_ap",
+  "tracer_color": "#ffce00",
+  "shell": {
+    "model": "helldiver2:shell/explode_ap_shell",
+    "texture": "helldiver2:shell/explode_ap_shell"
+  }
+}

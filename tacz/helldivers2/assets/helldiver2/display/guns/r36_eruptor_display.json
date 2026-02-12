@@ -1,0 +1,48 @@
+{
+    "model": "helldiver2:gun/r36_eruptor_geo",
+    "texture": "helldiver2:gun/uv/r36_eruptor",
+    "lod": {
+        "model": "helldiver2:gun/lod/r36_eruptor_lod",
+        "texture": "helldiver2:gun/lod/r36_eruptor_lod"
+    },
+    "slot": "helldiver2:gun/slot/r36_eruptor",
+    "animation": "helldiver2:r36_eruptor",
+    "use_default_animation": "rifle",
+    "hud": "helldiver2:gun/hud/r36_eruptor",
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 1
+    },
+    "sounds": {
+        "draw": "helldiver2:r36_eruptor/r36_eruptor_draw",
+        "dry_fire": "helldiver2:r36_eruptor/r36_eruptor_dry_fire",
+        "reload_empty": "helldiver2:r36_eruptor/r36_eruptor_reload_empty",
+        "reload_tactical": "helldiver2:r36_eruptor/r36_eruptor_reload_tactical",
+        "inspect": "helldiver2:r36_eruptor/r36_eruptor_inspect",
+        "inspect_empty": "helldiver2:r36_eruptor/r36_eruptor_inspect_empty",
+        "put_away": "helldiver2:r36_eruptor/r36_eruptor_put_away",
+        "shoot": "helldiver2:r36_eruptor/r36_eruptor_shoot",
+        "shoot_3p": "helldiver2:r36_eruptor/r36_eruptor_shoot",
+        "bolt": "helldiver2:r36_eruptor/r36_eruptor_bolt"
+    },
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "third_person_animation": "default"
+}

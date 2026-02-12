@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 26
+    },
+    {
+      "item": {
+        "item": "minecraft:white_dye"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:obsidian"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bluearchive:nonomi"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

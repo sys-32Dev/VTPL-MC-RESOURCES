@@ -1,0 +1,9 @@
+{
+  "weight": 0.07,
+  "ads_addend": 0.1,
+  "inaccuracy_addend": -0.4,
+  "recoil_modifier": {
+    "pitch": -0.3,
+    "yaw": -0.3
+  }
+  }

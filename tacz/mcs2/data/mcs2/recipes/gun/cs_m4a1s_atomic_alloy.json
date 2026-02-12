@@ -1,0 +1,47 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:honeycomb"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "item": "minecraft:blaze_powder"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "mcs2:cs_m4a1s"
+        }
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "mcs2:cs_m4a1s_atomic_alloy",
+    "attachments": {
+      "muzzle": "mcs2:m4a1s_silencer_atomic_alloy"
+    },
+    "count": 1
+  }
+}

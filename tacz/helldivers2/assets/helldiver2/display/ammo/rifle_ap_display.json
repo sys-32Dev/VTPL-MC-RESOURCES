@@ -1,0 +1,10 @@
+{
+  "slot": "helldiver2:ammo/slot/rifle_ap",
+  "model": "helldiver2:ammo/rifle_ap",
+  "texture": "helldiver2:ammo/uv/rifle_ap",
+  "tracer_color": "#71ff7b",
+  "shell": {
+    "model": "helldiver2:shell/rifle_ap_shell",
+    "texture": "helldiver2:shell/rifle_ap_shell"
+  }
+}

@@ -1,0 +1,54 @@
+{
+    "model": "helldiver2:gun/p19_redeemer_geo",
+    "texture": "helldiver2:gun/uv/p19_redeemer",
+    "lod": {
+        "model": "helldiver2:gun/lod/p19_redeemer_lod",
+        "texture": "helldiver2:gun/lod/p19_redeemer_lod"
+    },
+    "slot": "helldiver2:gun/slot/p19_redeemer",
+    "animation": "helldiver2:p19_redeemer",
+    "use_default_animation": "rifle",
+    "hud": "helldiver2:gun/hud/p19_redeemer",
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 1
+    },
+    "shell": {
+        "initial_velocity": [5, 2, 1],
+        "random_velocity": [1, 1, 0.25],
+        "acceleration": [0.0, -10, 0.0],
+        "angular_velocity": [360, -1200, 90],
+        "living_time": 1.0
+    },
+    "sounds": {
+        "draw": "helldiver2:p19_redeemer/p19_redeemer_draw",
+        "dry_fire": "helldiver2:p19_redeemer/p19_redeemer_dry_fire",
+        "reload_empty": "helldiver2:p19_redeemer/p19_redeemer_reload_empty",
+        "reload_tactical": "helldiver2:p19_redeemer/p19_redeemer_reload_tactical",
+        "inspect": "helldiver2:p19_redeemer/p19_redeemer_inspect",
+        "inspect_empty": "helldiver2:p19_redeemer/p19_redeemer_inspect_empty",
+        "put_away": "helldiver2:p19_redeemer/p19_redeemer_put_away",
+        "shoot": "helldiver2:p19_redeemer/p19_redeemer_shoot",
+        "shoot_3p": "helldiver2:p19_redeemer/p19_redeemer_shoot"
+    },
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "third_person_animation": "default"
+}

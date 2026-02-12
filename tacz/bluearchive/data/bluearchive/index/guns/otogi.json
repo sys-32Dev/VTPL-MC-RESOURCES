@@ -1,0 +1,9 @@
+{
+  "name": "bluearchive.gun.otogi.name",
+  "tooltip": "bluearchive.gun.otogi.tooltip",
+  "display": "bluearchive:otogi_display",
+  "data": "bluearchive:otogi_data",
+  "type": "sniper",
+  "item_type": "modern_kinetic",
+  "sort": 2
+}

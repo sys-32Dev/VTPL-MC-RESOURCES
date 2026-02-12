@@ -1,0 +1,56 @@
+{
+    "model": "helldiver2:gun/authorized_gun_geo",
+    "texture": "helldiver2:gun/uv/authorized_gun",
+    "lod": {
+        "model": "helldiver2:gun/lod/authorized_gun_lod",
+        "texture": "helldiver2:gun/lod/authorized_gun_lod"
+    },
+    "slot": "helldiver2:gun/slot/authorized_gun",
+    "animation": "helldiver2:authorized_gun",
+    "use_default_animation": "pistol",
+    "hud": "helldiver2:gun/hud/authorized_gun",
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 1
+    },
+    "shell": {
+        "initial_velocity": [5, 2, 1],
+        "random_velocity": [1, 1, 0.25],
+        "acceleration": [0.0, -10, 0.0],
+        "angular_velocity": [360, -1200, 90],
+        "living_time": 1.0
+    },
+    "sounds": {
+        "draw": "helldiver2:authorized_gun/authorized_gun_draw",
+        "dry_fire": "helldiver2:authorized_gun/authorized_gun_dry_fire",
+        "reload_empty": "helldiver2:authorized_gun/authorized_gun_reload_empty",
+        "reload_tactical": "helldiver2:authorized_gun/authorized_gun_reload_tactical",
+        "inspect": "helldiver2:authorized_gun/authorized_gun_inspect",
+        "inspect_empty": "helldiver2:authorized_gun/authorized_gun_inspect_empty",
+        "put_away": "helldiver2:authorized_gun/authorized_gun_put_away",
+        "silence": "helldiver2:authorized_gun/authorized_gun_shoot",
+        "silence_3p": "helldiver2:authorized_gun/authorized_gun_shoot",
+        "shoot": "helldiver2:authorized_gun/authorized_gun_shoot",
+        "shoot_3p": "helldiver2:authorized_gun/authorized_gun_shoot"
+    },
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "third_person_animation": "default"
+}

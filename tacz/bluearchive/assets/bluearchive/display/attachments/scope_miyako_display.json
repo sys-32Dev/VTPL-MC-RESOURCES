@@ -1,0 +1,11 @@
+{
+  "model": "bluearchive:attachment/scope_miyako_geo",
+  "slot": "bluearchive:attachment/slot/miyakoscope",
+  "texture": "bluearchive:attachment/uv/miyakoscope",
+  "zoom": [
+    2.0
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0
+}

@@ -1,0 +1,9 @@
+{
+  "name": "bluearchive.gun.miyako.name",
+  "tooltip": "bluearchive.gun.miyako.tooltip",
+  "display": "bluearchive:miyako_display",
+  "data": "bluearchive:miyako_data",
+  "type": "smg",
+  "item_type": "modern_kinetic",
+  "sort": 2
+}

@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "bf1:ammo_mod_chauchat"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,9 @@
+{
+  "slot": "helldiver2:attachment/slot/muzzle_silencer_harmony",
+  "model": "helldiver2:attachment/muzzle_silencer_harmony_geo",
+  "texture": "helldiver2:attachment/uv/muzzle_silencer_harmony",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

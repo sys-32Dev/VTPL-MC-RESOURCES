@@ -1,0 +1,33 @@
+{
+  "model": "bluearchive:gun/kurumi_geo",
+  "texture": "bluearchive:gun/uv/kurumi",
+  "slot": "bluearchive:gun/slot/kurumi",
+  "hud": "bluearchive:gun/hud/kurumi",
+  "third_person_animation": "default",
+  "sounds": {
+    "shoot": "bluearchive:item/kurumi",
+    "shoot_3p": "bluearchive:item/kurumi",
+    "silence": "bluearchive:item/fuuka_sli",
+    "silence_3p": "bluearchive:item/fuuka_sli",
+    "dry_fire": "tacz:dry_fire",
+    "reload_tactical":"bluearchive:item/kurumi_reload",
+    "reload_empty":"bluearchive:item/kurumi_reloadempty",
+    "inspect": "bluearchive:item/kurumi_inspect",
+    "inspect_empty": "bluearchive:item/kurumi_inspectempty",
+        "draw": "bluearchive:item/yukino_draw"
+    
+},
+"shell": {
+  "initial_velocity": [5, 2, 1],
+  "random_velocity": [1, 1, 0.25],
+  "acceleration": [0.0, -10, 0.0],
+  "angular_velocity": [360, -1200, 90],
+  "living_time": 1.0
+},
+  "muzzle_flash": {
+  "texture": "tacz:flash/common_muzzle_flash",
+  "scale": 1
+},
+"animation": "bluearchive:kurumi",
+"use_default_animation": "rifle"
+}

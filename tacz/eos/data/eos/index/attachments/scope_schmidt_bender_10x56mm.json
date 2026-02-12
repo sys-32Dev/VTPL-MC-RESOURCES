@@ -1,0 +1,7 @@
+{
+  "name": "eos.attachment.scope_schmidt_bender_10x56mm.name",
+  "display": "eos:scope_schmidt_bender_10x56mm_display",
+  "data": "eos:scope_schmidt_bender_10x56mm_data",
+  "type": "scope",
+  "sort": 256
+}

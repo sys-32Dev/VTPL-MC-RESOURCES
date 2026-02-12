@@ -1,0 +1,31 @@
+{
+  "model": "bluearchive:gun/noa_geo",
+  "texture": "bluearchive:gun/uv/noa",
+  "slot": "bluearchive:gun/slot/noa",
+  "hud": "bluearchive:gun/hud/noa",
+  "third_person_animation": "default",
+  "sounds": {
+    "shoot": "bluearchive:item/noa",
+    "shoot_3p": "bluearchive:item/noa",
+    "dry_fire": "tacz:dry_fire",
+    "silence": "bluearchive:item/kayako_sli",
+    "silence_3p": "bluearchive:item/kayako_sli",
+    "reload_tactical":"bluearchive:item/noa_reload",
+    "reload_empty":"bluearchive:item/noa_reloadempty",
+    "inspect": "bluearchive:item/noa_inspect",
+    "inspect_empty": "bluearchive:item/noa_inspect"
+},
+"shell": {
+  "initial_velocity": [5, 2, 1],
+  "random_velocity": [1, 1, 0.25],
+  "acceleration": [0.0, -10, 0.0],
+  "angular_velocity": [360, -1200, 90],
+  "living_time": 1.0
+},
+  "muzzle_flash": {
+  "texture": "bluearchive:flash/blank",
+  "scale": 1
+},
+"animation": "bluearchive:noa",
+"use_default_animation": "pistol"
+}

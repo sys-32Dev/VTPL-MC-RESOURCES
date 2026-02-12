@@ -1,0 +1,11 @@
+  {
+    "weight": 0.25,
+    "silence": {
+      "distance_addend": -36,
+      "use_silence_sound": true
+    },
+    "recoil_modifier": {
+      "pitch": -0.1,
+      "yaw": -0.1
+    }
+  }

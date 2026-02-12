@@ -1,0 +1,9 @@
+{
+  "name": "bluearchive.gun.azusa.name",
+  "tooltip": "bluearchive.gun.azusa.tooltip",
+  "display": "bluearchive:azusa_display",
+  "data": "bluearchive:azusa_data",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 1
+}

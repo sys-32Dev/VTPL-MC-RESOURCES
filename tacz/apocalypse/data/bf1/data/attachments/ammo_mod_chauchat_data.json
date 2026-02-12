@@ -1,0 +1,11 @@
+{
+  "heat": {
+  "heat_rate": {
+    "addend": -1
+  }
+ },
+  "rpm": {
+   "addend": 27
+ },
+ "extended_mag_level": 1
+}

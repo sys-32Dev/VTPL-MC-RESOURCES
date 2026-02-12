@@ -1,0 +1,8 @@
+{
+  "name": "eos.gun.elp_13_t3.name",
+  "display": "eos:elp_13_t3_display",
+  "data": "eos:elp_13_t3_data",
+  "tooltip": "eos.gun.elp_13_t3.desc",
+  "type": "pistol",
+  "sort": 16
+}

@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 23
+    },
+    {
+      "item": {
+        "item": "minecraft:white_dye"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:glow_ink_sac"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bluearchive:toki",
+    "attachments": {
+      "scope": "bluearchive:scope_toki"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

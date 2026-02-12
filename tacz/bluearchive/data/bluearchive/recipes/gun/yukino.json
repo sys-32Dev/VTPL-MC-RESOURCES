@@ -1,0 +1,24 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "minecraft:yellow_dye"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bluearchive:yukino",
+    "attachments": {
+      "scope": "bluearchive:scope_yukino"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

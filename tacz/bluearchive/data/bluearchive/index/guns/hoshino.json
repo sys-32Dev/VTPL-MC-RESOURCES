@@ -1,0 +1,8 @@
+{
+  "name": "bluearchive.gun.hoshino.name",
+  "tooltip": "bluearchive.gun.hoshino.tooltip",
+  "display": "bluearchive:hoshino_display",
+  "data": "bluearchive:hoshino_data",
+  "type": "shotgun",
+  "item_type": "modern_kinetic"
+}

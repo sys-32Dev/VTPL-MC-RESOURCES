@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.scope_kurumi.name",
+  "tooltip": "bluearchive.attachment.scope_kurumi.tooltip",
+  "display": "bluearchive:scope_kurumi_display",
+  "data": "bluearchive:scope_kurumi_data",
+  "type": "scope"
+}

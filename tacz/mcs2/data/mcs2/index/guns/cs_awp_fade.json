@@ -1,0 +1,8 @@
+{
+  "name": "mcs2.gun.cs_awp_fade.name",
+  "display": "mcs2:cs_awp_fade_display",
+  "data": "mcs2:cs_awp_fade_data",
+  "tooltip": "mcs2.gun.cs_awp_fade.desc",
+  "type": "sniper",
+  "sort":"10"
+}

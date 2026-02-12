@@ -1,0 +1,52 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 47
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 50
+    },
+    {
+      "item": {
+        "item": "minecraft:quartz"
+      },
+      "count": 50
+    },
+    {
+      "item": {
+        "tag": "forge:glass"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:blaze_powder"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:ender_eye"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "mcs2:cs_awp",
+    "count": 1
+  }
+}

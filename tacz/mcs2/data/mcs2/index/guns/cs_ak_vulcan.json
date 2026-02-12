@@ -1,0 +1,9 @@
+{
+    "name": "mcs2.gun.cs_ak_vulcan.name",
+    "display": "mcs2:cs_ak_vulcan_display",
+    "data": "mcs2:cs_ak_data",
+    "tooltip": "mcs2.gun.cs_ak_vulcan.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 12
+}

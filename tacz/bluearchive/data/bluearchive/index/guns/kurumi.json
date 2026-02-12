@@ -1,0 +1,9 @@
+{
+  "name": "bluearchive.gun.kurumi.name",
+  "tooltip": "bluearchive.gun.kurumi.tooltip",
+  "display": "bluearchive:kurumi_display",
+  "data": "bluearchive:kurumi_data",
+  "type": "smg",
+  "item_type": "modern_kinetic",
+  "sort": 2
+}

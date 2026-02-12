@@ -1,0 +1,25 @@
+{
+  "model": "bluearchive:ammo/ammog11toki_geo",
+  "texture": "bluearchive:ammo/uv/ammog11toki",
+  "slot": "bluearchive:ammo/slot/ammog11toki",
+  "tracer_color": "#FF8888",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  }
+}

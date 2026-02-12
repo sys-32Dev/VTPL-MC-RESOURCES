@@ -1,0 +1,56 @@
+{
+    "model": "helldiver2:gun/smg37_defender_geo",
+    "texture": "helldiver2:gun/uv/smg37_defender",
+    "lod": {
+        "model": "helldiver2:gun/lod/smg37_defender_lod",
+        "texture": "helldiver2:gun/lod/smg37_defender_lod"
+    },
+    "slot": "helldiver2:gun/slot/smg37_defender",
+    "animation": "helldiver2:smg37_defender",
+    "use_default_animation": "rifle",
+    "hud": "helldiver2:gun/hud/smg37_defender",
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 1
+    },
+    "shell": {
+        "initial_velocity": [5, 2, 1],
+        "random_velocity": [1, 1, 0.25],
+        "acceleration": [0.0, -10, 0.0],
+        "angular_velocity": [360, -1200, 90],
+        "living_time": 1.0
+    },
+    "sounds": {
+        "draw": "helldiver2:smg37_defender/smg37_defender_draw",
+        "dry_fire": "helldiver2:smg37_defender/smg37_defender_dry_fire",
+        "shoot": "helldiver2:smg37_defender/smg37_defender_shoot",
+        "shoot_3p": "helldiver2:smg37_defender/smg37_defender_shoot",
+        "silence": "helldiver2:smg37_defender/smg37_defender_shoot_silence",
+        "silence_3p": "helldiver2:smg37_defender/smg37_defender_shoot_silence",
+        "reload_empty": "helldiver2:smg37_defender/smg37_defender_reload_empty",
+        "reload_tactical": "helldiver2:smg37_defender/smg37_defender_reload_tactical",
+        "inspect": "helldiver2:smg37_defender/smg37_defender_inspect",
+        "inspect_empty": "helldiver2:smg37_defender/smg37_defender_inspect_empty",
+        "put_away": "helldiver2:smg37_defender/smg37_defender_put_away"
+    },
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "third_person_animation": "default"
+}

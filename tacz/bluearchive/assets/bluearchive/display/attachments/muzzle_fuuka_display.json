@@ -1,0 +1,9 @@
+{
+  "model": "bluearchive:attachment/muzzle_fuuka_geo",
+  "slot": "bluearchive:attachment/slot/fuukamuzzle",
+  "texture": "bluearchive:attachment/uv/fuukamuzzle",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

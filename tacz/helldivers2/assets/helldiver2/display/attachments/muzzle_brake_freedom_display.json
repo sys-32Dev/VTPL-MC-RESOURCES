@@ -1,0 +1,9 @@
+{
+  "slot": "helldiver2:attachment/slot/muzzle_brake_freedom",
+  "model": "helldiver2:attachment/muzzle_brake_freedom_geo",
+  "texture": "helldiver2:attachment/uv/muzzle_brake_freedom",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

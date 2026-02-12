@@ -1,0 +1,9 @@
+{
+  "model": "bluearchive:attachment/grip_kurumi_geo",
+  "slot": "bluearchive:attachment/slot/kurumigrip",
+  "texture": "bluearchive:attachment/uv/kurumigrip",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

@@ -1,0 +1,157 @@
+{
+
+  "model": "mcs2:gun/cs_ak_abyssal_apparition_geo",
+
+  "texture": "mcs2:gun/uv/cs_ak_abyssal_apparition",
+
+
+  "hud": "mcs2:gun/hud/cs_ak",
+ 
+  "slot": "mcs2:gun/slot/cs_ak_abyssal_apparition",
+
+  "ammo_count_style": "normal",
+
+  "animation": "mcs2:cs_ak_new",
+
+
+  "use_default_animation": "rifle",
+
+  "third_person_animation": "default",
+
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+
+  "show_crosshair": false,
+
+  "transform": {
+
+    "scale": {
+
+      "thirdperson": [0.6, 0.6, 0.6],
+
+      "ground": [0.6, 0.6, 0.6],
+
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0.83
+  },
+
+  "iron_zoom": 1.2,
+
+  "shell": {
+
+    "initial_velocity": [5, 2, 1],
+
+    "random_velocity": [1, 1, 0.25],
+
+    "acceleration": [0.0, -10, 0.0],
+
+    "angular_velocity": [360, -1200, 90],
+
+    "living_time": 1.0
+  },
+
+  "ammo": {
+
+
+    "tracer_color": "#FF8888"
+    // 粒子效果，部分参数和原版指令完全一致，具体可参考 wiki：https://minecraft.fandom.com/zh/wiki/%E5%91%BD%E4%BB%A4/particle
+    // 没有此字段时，会调用 ammo 的相关字段
+    //    "particle": {
+    //      // 名称，具体可选粒子可参考 wiki：https://minecraft.fandom.com/zh/wiki/%E7%B2%92%E5%AD%90
+    //      "name": "campfire_signal_smoke",
+    //      // 生成的区域，默认为 0 0 0
+    //      "delta": [
+    //        0,
+    //        0,
+    //        0
+    //      ],
+    //      // 速度，默认为0，必须至少为 0
+    //      "speed": 0,
+    //      // 粒子存在时间，单位 tick，默认为 20 tick
+    //      "life_time": 50,
+    //      // 粒子数量，当子弹速度过快时，可以增大此数量，能够填满子弹路径的空隙
+    //      "count": 5
+    //    }
+  },
+  // 枪械音效，在包目录下 sounds 文件夹内寻找，不建议为空
+  "sounds": {
+    "shoot": "mcs2:cs_ak/cs_ak_shoot",
+    "shoot_3p": "mcs2:cs_ak/cs_ak_shoot_3p",
+    "reload_empty": "mcs2:cs_ak/cs_ak_reload",
+    "reload_tactical": "mcs2:cs_ak/cs_ak_reload",
+    "inspect": "mcs2:cs_ak/cs_ak_inspect",
+    "inspect_empty": "mcs2:cs_ak/cs_ak_inspect",
+    "draw": "mcs2:cs_ak/cs_ak_draw",
+
+    // 下面四个音效可以不写，模组会自动添加默认音效
+    "dry_fire": "mcs2:clipempty_rifle",
+    "head_hit":"mcs2:headshot_armor_e1",
+    "flesh_hit":"mcs2:kevlar3",
+    "kill":"mcs2:cs_ak/cs_ak_kill",
+    // 近战音效，默认就会添加
+    "melee_bayonet": "tacz:melee_bayonet/melee_bayonet_01",
+    "melee_push": "tacz:melee_stock/melee_stock_01",
+    "melee_stock": "tacz:melee_stock/melee_stock_02"
+  },
+  // 副手枪械显示
+  "offhand_show": {
+    "pos": [2.5, 18, 4],
+    "rotate": [168, 4, 79],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  // 快捷栏枪械显示
+  // 没有此字段，不显示快捷栏枪械
+  "hotbar_show": {
+  
+    "0": {
+      "pos": [2.5, 18, 4],
+      "rotate": [168, 4, 79],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  },
+  // 枪械模型上的文本显示
+  "text_show": {
+    // 作用的组名，该组的旋转点决定文本的位置和朝向
+    "ammo_count_text_show_pos": {
+      // 文本缩放，默认大小对于 BlockBench 里的 1
+      "scale": 1,
+      // 对齐方式：right，center，left
+      "align": "center",
+      // 阴影
+      "shadow": false,
+      // 文本颜色
+      "color": "#FFFFFF",
+      // 亮度：1-15
+      "light": 15,
+      // 本地化，且支持PlaceholderAPI 风格的占位符
+      // 目前仅支持两个：%player_name% %ammo_count%
+      "text": "text_show.tacz.ak47.ammo_count"
+    }
+  },
+  // controllable 模组支持，用于调节手柄的震动强度
+  "controllable": {
+    // 开火模式
+    "semi": {
+      // 低频马达，也就是手柄左侧那个马达，个头较小
+      // 范围 0-1，1 震动最大
+      "low_frequency": 0.25,
+      // 高频马达，也就是手柄右侧那个马达，个头较大
+      "high_frequency": 0.5,
+      // 震动时长，单位 ms
+      "time": 100
+    },
+    "auto": {
+      "low_frequency": 0.15,
+      "high_frequency": 0.25,
+      "time": 80
+    },
+    "burst": {
+      "low_frequency": 0.25,
+      "high_frequency": 0.5,
+      "time": 100
+    }
+  }
+}

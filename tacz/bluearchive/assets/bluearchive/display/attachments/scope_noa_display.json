@@ -1,0 +1,11 @@
+{
+  "model": "bluearchive:attachment/scope_noa_geo",
+  "slot": "bluearchive:attachment/slot/noascope",
+  "texture": "bluearchive:attachment/uv/noascope",
+  "zoom": [
+    2.0
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0
+}

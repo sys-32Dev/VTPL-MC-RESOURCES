@@ -1,0 +1,8 @@
+{
+  "name": "eos.attachment.scope_eos_ts16.name",
+  "tooltip": "eos.attachment.scope_eos_ts16.tooltip",
+  "display": "eos:scope_eos_ts16_display",
+  "data": "eos:scope_eos_ts16_data",
+  "type": "scope",
+  "sort": 256
+}

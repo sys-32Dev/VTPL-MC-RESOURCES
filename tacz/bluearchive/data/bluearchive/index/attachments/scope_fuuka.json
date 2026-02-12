@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.scope_fuuka.name",
+  "tooltip": "bluearchive.attachment.scope_fuuka.tooltip",
+  "display": "bluearchive:scope_fuuka_display",
+  "data": "bluearchive:scope_fuuka_data",
+  "type": "scope"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.grip_yukino.name",
+  "tooltip": "bluearchive.attachment.grip_yukino.tooltip",
+  "display": "bluearchive:grip_yukino_display",
+  "data": "bluearchive:grip_yukino_data",
+  "type": "grip"
+}

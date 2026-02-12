@@ -1,0 +1,11 @@
+{
+  "model": "bluearchive:attachment/scope_yukino_geo",
+  "slot": "bluearchive:attachment/slot/yukinoscope",
+  "texture": "bluearchive:attachment/uv/yukinoscope",
+  "zoom": [
+    2.0
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0
+}

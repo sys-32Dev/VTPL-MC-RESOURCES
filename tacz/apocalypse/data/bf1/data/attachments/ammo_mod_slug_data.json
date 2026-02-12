@@ -1,0 +1,16 @@
+{
+  "weight": 0,
+  "aim_inaccuracy": {
+    "multiplier": 0
+  },
+  "inaccuracy": {
+    "multiplier": 0
+  },
+  "damage": {
+    "multiplier": 0.8
+  },
+  "ammo_speed": {
+    "multiplier": 0.8
+  },
+ "extended_mag_level": 1
+}

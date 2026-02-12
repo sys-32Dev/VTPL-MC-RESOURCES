@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 48
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 72
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 24
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "eos:elp_34_t3"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

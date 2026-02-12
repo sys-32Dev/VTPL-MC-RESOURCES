@@ -1,0 +1,12 @@
+{
+  "model": "bluearchive:attachment/scope_otogi_geo",
+  "slot": "bluearchive:attachment/slot/otogiscope",
+  "texture": "bluearchive:attachment/uv/otogiscope",
+  "zoom": [
+    5.0,
+    8.0,
+    10.0
+  ],
+  "scope": true,
+  "fov": 70.0
+}

@@ -1,0 +1,8 @@
+{
+  "name": "eos.attachment.bayonet_eternity.name",
+  "tooltip": "eos.attachment.bayonet_eternity.desc",
+  "display": "eos:bayonet_eternity_display",
+  "data": "eos:bayonet_eternity_data",
+  "type": "muzzle",
+  "sort": 256
+}

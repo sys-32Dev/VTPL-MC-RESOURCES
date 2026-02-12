@@ -1,0 +1,94 @@
+{
+  "ammo": "tacz:556x45",
+  "ammo_amount": 30,
+  "bolt": "open_bolt",
+  "rpm": 650,
+  "bullet": {
+    "life": 0.75,
+    "bullet_amount": 1,
+    "damage": 11.4,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.2,
+      "head_shot_multiplier": 1.6,
+      "damage_adjust": [
+        {"distance": 1, "damage": 15},
+        {"distance": 8.5, "damage": 14},
+        {"distance": 17.5, "damage": 12},
+        {"distance": 32, "damage": 10},
+        // 如果你忘记写这个无穷，那么超过上述距离，我就认为是 0
+        {"distance": "infinite", "damage": 5}
+      ]
+    },
+    // 速度 m/s
+    "speed": 260,
+    // 重力
+    "gravity": 0.0245,
+    // 击退效果
+    "knockback": 0,
+    // 阻力
+    "friction": 0.01,
+    // 点燃目标
+    "ignite": false,
+    // 穿透数
+    "pierce": 1
+    // 是否爆炸，没有此字段时为 false
+    //"explosion": {
+    //  "radius": 5
+    //}
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 3,
+      "tactical": 2.5
+    },
+    "cooldown": {
+      "empty": 3.3,
+      "tactical": 3
+    }
+  },
+  "draw_time": 0.35,
+  "put_away_time": 0.5,
+  "aim_time": 0.2,
+  "sprint_time": 0.3,
+  "fire_mode": [
+    "auto",
+    "semi"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0.725, 0.725]},
+      {"time": 0.26, "value": [0.725, 0.725]},
+      {"time": 0.48, "value": [-0.215, -0.215]},
+      {"time": 0.72, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.15, 0.45]},
+      {"time": 0.43, "value": [0, 0.1]},
+      {"time": 0.6, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 1.45,
+    "move": 2.25,
+    "sneak": 0.9,
+    "lie": 0.6,
+    "aim": 0.12
+  },
+  "move_speed": {
+    "base": 0.92,
+    "aim": 0.68
+  },
+  "allow_attachment_types": [
+    "scope",
+    "extended_mag",
+    "muzzle",
+    "grip"
+  ],
+  "extended_mag_ammo_amount": [
+    45,
+    70,
+    100
+  ]
+}

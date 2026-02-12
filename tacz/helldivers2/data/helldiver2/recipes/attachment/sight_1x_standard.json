@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:glass_panes"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/yellow"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "helldiver2:sight_1x_standard"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

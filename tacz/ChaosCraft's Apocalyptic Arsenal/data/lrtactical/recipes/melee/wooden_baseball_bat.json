@@ -1,0 +1,39 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "lrtactical:melee",
+    "item": {
+      "item": "lrtactical:melee",
+      "nbt": {
+        "MeleeWeaponId": "lrtactical:wooden_baseball_bat"
+      }
+    }
+  }
+}

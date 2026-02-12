@@ -1,0 +1,70 @@
+{
+  "ammo": "helldiver2:pistol_normal",
+  "ammo_amount": 45,
+  "bolt": "closed_bolt",
+  "rpm": 520,
+  "bullet": {
+    "extra_damage": {
+      "armor_ignore": 0.15,
+      "head_shot_multiplier": 1.5,
+      "damage_adjust": [
+        {"distance": 10, "damage": 9},
+        {"distance": 20, "damage": 7.5},
+        {"distance": 30, "damage": 6},
+        {"distance": 40, "damage": 4.5},
+        {"distance": "infinite", "damage": 3}
+      ]
+    },
+    "life": 1,
+    "tracer_count_interval": 0,
+    "damage": 9,
+    "speed": 240,
+    "gravity": 0,
+    "knockback": 0,
+    "friction": 0.01,
+    "ignite": false,
+    "pierce": 1
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 2.71,
+      "tactical": 1.54
+    },
+    "cooldown": {
+      "empty": 3.54,
+      "tactical": 2.04
+    }
+  },
+  "draw_time": 0.5,
+  "put_away_time": 0.5,
+  "aim_time": 0.15,
+  "sprint_time": 0.3,
+  "fire_mode": [
+    "auto"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0.24, 0.24]},
+      {"time": 0.2, "value": [0.24, 0.24]},
+      {"time": 0.4, "value": [-0.08, -0.08]},
+      {"time": 0.55, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.2, 0.2]},
+      {"time": 0.35, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 2,
+    "move": 4,
+    "sneak": 1,
+    "lie": 0.5,
+    "aim": 0.2
+  },
+  "allow_attachment_types": [
+    "scope",
+    "grip",
+    "muzzle"
+  ]
+}

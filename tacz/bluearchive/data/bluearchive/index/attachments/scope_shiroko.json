@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.scope_shiroko.name",
+  "tooltip": "bluearchive.attachment.scope_shiroko.tooltip",
+  "display": "bluearchive:scope_shiroko_display",
+  "data": "bluearchive:scope_shiroko_data",
+  "type": "scope"
+}

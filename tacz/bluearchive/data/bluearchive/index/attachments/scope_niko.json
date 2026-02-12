@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.scope_niko.name",
+  "tooltip": "bluearchive.attachment.scope_niko.tooltip",
+  "display": "bluearchive:scope_niko_display",
+  "data": "bluearchive:scope_niko_data",
+  "type": "scope"
+}

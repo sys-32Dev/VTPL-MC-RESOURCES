@@ -1,0 +1,9 @@
+{
+  "name": "bluearchive.gun.toki.name",
+  "tooltip": "bluearchive.gun.toki.tooltip",
+  "display": "bluearchive:toki_display",
+  "data": "bluearchive:toki_data",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 2
+}

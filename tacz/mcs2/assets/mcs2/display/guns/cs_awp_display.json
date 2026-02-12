@@ -1,0 +1,69 @@
+{
+  "model": "mcs2:gun/cs_awp_geo",
+  "texture": "mcs2:gun/uv/cs_awp",
+
+  "hud": "mcs2:gun/hud/cs_awp",
+  "slot": "mcs2:gun/slot/cs_awp",
+  "animation": "mcs2:cs_awp_baked",
+  "use_default_animation": "rifle",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.8
+  },
+  "sounds": {
+    "reload_empty": "mcs2:cs_awp/cs_awp_reload",
+    "reload_tactical": "mcs2:cs_awp/cs_awp_reload",
+    "inspect": "mcs2:cs_awp/cs_awp_inspcet",
+    "inspect_empty": "mcs2:cs_awp/cs_awp_inspcet",
+    "draw": "mcs2:cs_awp/cs_awp_draw",
+    "shoot": "mcs2:cs_awp/cs_awp_shoot_bolt",
+    "shoot_3p": "mcs2:cs_awp/cs_awp_shoot_3p",
+    "dry_fire": "mcs2:clipempty_rifle",
+    "head_hit":"mcs2:headshot_armor_e1",
+    "flesh_hit":"mcs2:kevlar3",
+    "kill":"mcs2:kill_doof"
+  
+  },
+  "offhand_show": {
+    "pos": [2.5, 18, 4],
+    "rotate": [168, 4, 79],
+    "scale": [0.5, 0.4, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [2.5, 18, 4],
+      "rotate": [168, 4, 79],
+      "scale": [0.5, 0.4, 0.5]
+    }
+  },
+
+
+
+   "ammo": {
+    "particle": {
+    //      // 名称，具体可选粒子可参考 wiki：https://minecraft.fandom.com/zh/wiki/%E7%B2%92%E5%AD%90
+    "name": "effect",
+  
+    "delta": [
+     0,
+     0,
+     0
+     ],
+
+    "speed": 4,
+
+    "life_time": 10,
+
+    "count": 30
+   }
+  }
+
+
+}

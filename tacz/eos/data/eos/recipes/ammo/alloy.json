@@ -1,0 +1,22 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:nether_stars"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "eos:alloy",
+    "count": 10
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

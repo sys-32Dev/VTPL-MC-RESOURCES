@@ -1,0 +1,7 @@
+{
+  "name": "bf1.attachment.bayonet_general.name",
+  "display": "bf1:bayonet_general_display",
+  "data": "bf1:bayonet_general_data",
+  "type": "muzzle",
+  "sort": 4
+}

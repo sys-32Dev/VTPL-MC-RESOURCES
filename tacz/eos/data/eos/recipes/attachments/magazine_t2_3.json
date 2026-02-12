@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "eos:magazine_t2_2"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/glowstone"
+      },
+      "count": 32
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "eos:magazine_t2_3"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

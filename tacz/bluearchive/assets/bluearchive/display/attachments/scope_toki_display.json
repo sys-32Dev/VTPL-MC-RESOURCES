@@ -1,0 +1,10 @@
+{
+  "model": "bluearchive:attachment/scope_toki_geo",
+  "slot": "bluearchive:attachment/slot/tokiscope",
+  "texture": "bluearchive:attachment/uv/tokiscope",
+  "zoom": [
+    4.0
+  ],
+  "scope": true,
+  "fov": 70.0
+}

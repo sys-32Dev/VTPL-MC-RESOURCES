@@ -1,0 +1,8 @@
+{
+    "name": "helldiver2.gun.p2_peacemaker.name",
+    "display": "helldiver2:p2_peacemaker_display",
+    "data": "helldiver2:p2_peacemaker_data",
+    "type": "pistol",
+    "item_type": "modern_kinetic",
+    "sort": 50
+}

@@ -1,0 +1,6 @@
+{
+  "name": "mcs2.attachment.usp_silencer.name",
+  "display": "mcs2:usp_silencer_printstream_display",
+  "data": "mcs2:usp_silencer_data",
+  "type": "muzzle"
+}

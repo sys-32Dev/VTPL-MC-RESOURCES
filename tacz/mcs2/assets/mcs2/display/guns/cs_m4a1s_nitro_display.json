@@ -1,0 +1,94 @@
+{
+   
+    "model": "mcs2:gun/cs_m4a1s_geo",
+   
+    "texture": "mcs2:gun/uv/cs_m4a1s_nitro",
+   
+    "slot": "mcs2:gun/slot/cs_m4a1s_nitro",
+   
+    "hud": "mcs2:gun/hud/cs_m4a1s",
+      
+    "animation": "mcs2:cs_m4a1s_new",
+   
+    "use_default_animation": "rifle",
+
+       
+          
+    "shell": {
+       
+        "initial_velocity": [5, 2, 1],
+       
+        "random_velocity": [1, 1, 0.25],
+       
+        "acceleration": [0.0, -10, 0.0],
+       
+        "angular_velocity": [360, -1200, 90],
+      
+        "living_time": 1.0
+    },
+
+    
+    
+
+    "sounds": {
+        "shoot": "mcs2:cs_m4a1s/cs_m4a1s_shoot",
+        "shoot_3p": "mcs2:cs_m4a1s/cs_m4a1s_shoot_3p",
+        "dry_fire": "mcs2:clipempty_rifle",
+        "silence": "mcs2:cs_m4a1s/cs_m4a1s_silence",
+        "silence_3p": "mcs2:cs_m4a1s/cs_m4a1s_silence_3p",
+        "reload_empty": "mcs2:cs_m4a1s/cs_m4a1s_reload",
+        "reload_tactical": "mcs2:cs_m4a1s/cs_m4a1s_reload",
+        "inspect": "mcs2:cs_m4a1s/cs_m4a1s_inspect",
+        "inspect_empty": "mcs2:cs_m4a1s/cs_m4a1s_inspect",
+        "draw": "mcs2:cs_m4a1s/cs_m4a1s_draw",
+        "head_hit":"mcs2:headshot_armor_e1",
+        "flesh_hit":"mcs2:kevlar3",
+        "kill":"mcs2:headshot_noarmor_02"
+      },
+
+    "muzzle_flash": {
+       
+        "texture": "tacz:flash/common_muzzle_flash",
+       
+        "scale": 0.8
+      },
+    
+    "transform": {
+        "scale": {
+            
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+           
+            "fixed": [
+                1.2,
+                1.2,
+                1.2
+            ]
+        }
+    },
+
+    "offhand_show": {
+    "pos": [2.5, 18, 4],
+    "rotate": [168, 4, 79],
+    "scale": [0.5, 0.5, 0.5]
+  },
+
+  "hotbar_show": {
+    "0": {
+      "pos": [2.5, 18, 4],
+      "rotate": [168, 4, 79],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  },
+     
+    "third_person_animation": "default"
+}

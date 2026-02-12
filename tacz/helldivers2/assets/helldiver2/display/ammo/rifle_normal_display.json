@@ -1,0 +1,10 @@
+{
+  "slot": "helldiver2:ammo/slot/rifle_normal",
+  "model": "helldiver2:ammo/rifle_normal",
+  "texture": "helldiver2:ammo/uv/rifle_normal",
+  "tracer_color": "#ff9fbe",
+  "shell": {
+    "model": "helldiver2:shell/rifle_normal_shell",
+    "texture": "helldiver2:shell/rifle_normal_shell"
+  }
+}

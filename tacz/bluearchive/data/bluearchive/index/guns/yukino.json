@@ -1,0 +1,9 @@
+{
+  "name": "bluearchive.gun.yukino.name",
+  "tooltip": "bluearchive.gun.yukino.tooltip",
+  "display": "bluearchive:yukino_display",
+  "data": "bluearchive:yukino_data",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 2
+}

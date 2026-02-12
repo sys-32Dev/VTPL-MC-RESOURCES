@@ -1,0 +1,9 @@
+{
+    "name": "mcs2.gun.cs_ak.name",
+    "display": "mcs2:cs_ak_display",
+    "data": "mcs2:cs_ak_data",
+    "tooltip": "mcs2.gun.cs_ak.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 11
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.grip_otogi.name",
+  "tooltip": "bluearchive.attachment.grip_otogi.tooltip",
+  "display": "bluearchive:grip_otogi_display",
+  "data": "bluearchive:grip_otogi_data",
+  "type": "grip"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "helldiver2.gun.sg225_breaker.name",
+    "display": "helldiver2:sg225_breaker_display",
+    "data": "helldiver2:sg225_breaker_data",
+    "type": "shotgun",
+    "item_type": "modern_kinetic",
+    "sort": 50
+}

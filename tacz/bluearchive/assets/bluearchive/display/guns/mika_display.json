@@ -1,0 +1,32 @@
+{
+  "model": "bluearchive:gun/mika_geo",
+  "texture": "bluearchive:gun/uv/mika",
+  "slot": "bluearchive:gun/slot/mika",
+  "hud": "bluearchive:gun/hud/mika",
+  "third_person_animation": "default",
+  "sounds": {
+    "shoot": "bluearchive:item/mika",
+    "shoot_3p": "tacz:ak47/mika",
+    "silence": "bluearchive:item/fuuka_sli",
+    "silence_3p": "tacz:ak47/fuuka_sli",
+    "dry_fire": "tacz:dry_fire",
+    "reload_tactical":"bluearchive:item/mika_reload",
+    "reload_empty":"bluearchive:item/mika_reloadempty",
+    "inspect": "bluearchive:item/mika_inspect",
+    "draw": "bluearchive:item/yukino_draw"
+    
+},
+"shell": {
+  "initial_velocity": [5, 2, 1],
+  "random_velocity": [1, 1, 0.25],
+  "acceleration": [0.0, -10, 0.0],
+  "angular_velocity": [360, -1200, 90],
+  "living_time": 1.0
+},
+  "muzzle_flash": {
+  "texture": "tacz:flash/common_muzzle_flash",
+  "scale": 1
+},
+"animation": "bluearchive:mika",
+"use_default_animation": "rifle"
+}

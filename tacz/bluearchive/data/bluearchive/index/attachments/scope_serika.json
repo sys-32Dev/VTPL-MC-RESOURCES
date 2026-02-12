@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.scope_serika.name",
+  "tooltip": "bluearchive.attachment.scope_serika.tooltip",
+  "display": "bluearchive:scope_serika_display",
+  "data": "bluearchive:scope_serika_data",
+  "type": "scope"
+}

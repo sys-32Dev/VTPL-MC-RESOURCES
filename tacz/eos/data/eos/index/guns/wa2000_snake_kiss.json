@@ -1,0 +1,8 @@
+{
+  "name": "eos.gun.wa2000_snake_kiss.name",
+  "display": "eos:wa2000_snake_kiss_display",
+  "data": "eos:wa2000_snake_kiss_data",
+  "tooltip": "eos.gun.wa2000_snake_kiss.desc",
+  "type": "sniper",
+  "sort": 16
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "tacz:workbench_b",
+    "nbt": {
+      "BlockId": "eos:eos_printer"
+    }
+  },
+  "pattern": [
+    "ACA",
+    "DBD"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "B": {
+      "tag": "forge:ingots/iron"
+    },
+    "C": {
+      "tag": "forge:glass/yellow"
+    },
+    "D": {
+      "tag": "forge:ingots/copper"
+    }
+  }
+}

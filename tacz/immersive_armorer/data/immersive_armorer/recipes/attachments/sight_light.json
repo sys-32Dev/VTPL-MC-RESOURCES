@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/steel"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "immersiveengineering:wirecoil_steel"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:glass_panes"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "immersive_armorer:sight_light"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

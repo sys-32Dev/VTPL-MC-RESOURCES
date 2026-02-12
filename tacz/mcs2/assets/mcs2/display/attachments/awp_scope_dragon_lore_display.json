@@ -1,0 +1,16 @@
+{
+  "slot": "mcs2:attachments/slot/awp_scope_slot",
+  "model": "mcs2:attachments/awp_scope_dragon_lore_geo",
+  "texture": "mcs2:attachments/uv/awp_scope_dragon_lore",
+ 
+  "zoom": [
+    4.0,
+    12.0
+  ],
+  "scope": true,
+  "fov": 20.0,
+  "sounds": {
+    "install": "mcs2:cs_awp/cs_awp_zoomin",
+    "uninstall": "mcs2:cs_awp/cs_awp_zoomout"
+  }
+}

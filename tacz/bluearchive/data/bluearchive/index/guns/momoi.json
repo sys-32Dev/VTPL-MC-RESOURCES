@@ -1,0 +1,9 @@
+{
+  "name": "bluearchive.gun.momoi.name",
+  "tooltip": "bluearchive.gun.momoi.tooltip",
+  "display": "bluearchive:momoi_display",
+  "data": "bluearchive:momoi_data",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 2
+}

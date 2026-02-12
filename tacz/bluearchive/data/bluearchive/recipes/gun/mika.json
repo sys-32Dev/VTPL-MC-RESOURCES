@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "minecraft:planks"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bluearchive:mika"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

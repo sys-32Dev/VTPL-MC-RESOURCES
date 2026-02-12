@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.scope_otogi.name",
+  "tooltip": "bluearchive.attachment.scope_otogi.tooltip",
+  "display": "bluearchive:scope_otogi_display",
+  "data": "bluearchive:scope_otogi_data",
+  "type": "scope"
+}

@@ -1,0 +1,9 @@
+{
+  "model": "bluearchive:attachment/grip_fuuka_geo",
+  "slot": "bluearchive:attachment/slot/fuukagrip",
+  "texture": "bluearchive:attachment/uv/fuukagrip",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

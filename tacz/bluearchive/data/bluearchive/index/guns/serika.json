@@ -1,0 +1,9 @@
+{
+  "name": "bluearchive.gun.serika.name",
+  "tooltip": "bluearchive.gun.serika.tooltip",
+  "display": "bluearchive:serika_display",
+  "data": "bluearchive:serika_data",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 2
+}

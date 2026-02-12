@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "minecraft:coals"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "eos:battery",
+    "count": 16
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

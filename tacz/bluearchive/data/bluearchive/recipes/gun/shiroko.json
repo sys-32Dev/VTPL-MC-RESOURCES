@@ -1,0 +1,24 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "minecraft:white_dye"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bluearchive:shiroko",
+    "attachments": {
+      "scope": "bluearchive:scope_shiroko"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

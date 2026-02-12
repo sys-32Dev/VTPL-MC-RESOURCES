@@ -1,0 +1,9 @@
+{
+    "name": "mcs2.gun.cs_ak_abyssal_apparition.name",
+    "display": "mcs2:cs_ak_abyssal_apparition_display",
+    "data": "mcs2:cs_ak_data",
+    "tooltip": "mcs2.gun.cs_ak_abyssal_apparition.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 12
+}

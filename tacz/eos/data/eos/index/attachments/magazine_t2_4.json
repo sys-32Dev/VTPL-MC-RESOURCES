@@ -1,0 +1,7 @@
+{
+  "name": "eos.attachment.magazine_t2_4.name",
+  "tooltip": "eos.attachment.magazine_t2_4.tooltip",
+  "display": "eos:magazine_t2_4_display",
+  "data": "eos:magazine_t2_4_data",
+  "type": "extended_mag"
+}

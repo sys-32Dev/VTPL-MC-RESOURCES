@@ -1,0 +1,11 @@
+{
+  "model": "bluearchive:attachment/scope_shiroko_geo",
+  "slot": "bluearchive:attachment/slot/scope_shiroko",
+  "texture": "bluearchive:attachment/uv/shirokoscope0",
+  "zoom": [
+    2.0,
+    4.0
+  ],
+  "scope": true,
+  "fov": 70.0
+}

@@ -1,0 +1,29 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "bf1:ef46",
+          "GunCurrentAmmoCount": 0
+        }
+      }
+    },
+    {
+      "item": {
+        "tag": "forge:slimeballs"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bf1:ef46",
+    "nbt": {
+      "DummyAmmo": 0
+    },
+    "ammo_count": 80
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

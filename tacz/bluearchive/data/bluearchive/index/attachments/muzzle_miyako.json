@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.muzzle_miyako.name",
+  "tooltip": "bluearchive.attachment.muzzle_miyako.tooltip",
+  "display": "bluearchive:muzzle_miyako_display",
+  "data": "bluearchive:muzzle_miyako_data",
+  "type": "muzzle"
+}

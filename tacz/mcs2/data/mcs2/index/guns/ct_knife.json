@@ -1,0 +1,9 @@
+{
+  "name": "mcs2.knife.ct_knife.name",
+  "display": "mcs2:ct_knife_display",
+  "data": "mcs2:knife_data",
+  "tooltip": "mcs2.knife.ct_knife.desc",
+  "type": "rpg",
+  "item_type": "modern_kinetic",
+  "sort":10
+}

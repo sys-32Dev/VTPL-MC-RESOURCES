@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "eos:wa2000"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/white"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "eos:wa2000_snake_kiss",
+    "attachments": {
+      "scope": "eos:scope_scope_schmidt_bender_10x56mm",
+      "grip": "eos:wa2000_grip"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

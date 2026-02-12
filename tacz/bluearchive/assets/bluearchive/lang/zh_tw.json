@@ -1,0 +1,80 @@
+{
+  "pack.bluearchive.name": "超級碧藍檔案槍械",
+  "pack.bluearchive.desc": "這個拓展包添加了來自碧藍檔案的槍械，而我們打算把所有學生都做進去！",
+
+
+  "bluearchive.gun.shiroko.name": "§bWHITE FANG 465",
+  "bluearchive.gun.shiroko.tooltip":"白子的愛用突擊步槍。一直都在好好地進行整備，所以無論何時都是沒有問題的狀態。",
+  "bluearchive.attachment.scope_shiroko.name": "WHITE FANG 456的倍鏡",
+  "bluearchive.attachment.scope_shiroko.tooltip":"白子使用的倍鏡，佈滿了無法被擦除的戰損痕跡。熱\n愛運動的白子就連眼睛都鍛煉得無比雪亮，再加上倍\n鏡，就能使偵查運鈔車路線的工作變得更輕鬆",
+  "bluearchive.attachment.grip_shiroko.name":"WHITE FANG 456的握把",
+  "bluearchive.attachment.grip_shiroko.tooltip":"白子使用的握把，其簡單可靠的結構使其適用於任何\n場景。由於經常被飽受鍛煉、孔武有力的左手握着\n上麵不可避免的留有一些無法被擦除的磨損",
+  
+
+  "bluearchive.gun.hoshino.name": "§d荷魯斯之眼",
+  "bluearchive.gun.hoshino.tooltip":"星野愛用的簡潔造型的霰彈槍。平時懶洋洋的她，唯獨對於槍的整備絶不會懈怠。",
+
+  "bluearchive.gun.ayane.name": "合乎常理的手段",
+  "bluearchive.gun.ayane.tooltip":"綾音所持的可愛造型的槍。隻要不在綾音麵前重複非常識性的言行，就不會有機會見到它。",
+
+  "bluearchive.gun.serika.name": "§4誠意",
+  "bluearchive.gun.serika.tooltip":"芹香外出打工時攜帶的突擊步槍。芹香一直都很仔細地整備它，從這點也可以看出她認真誠實的一麵。",
+  "bluearchive.attachment.scope_serika.name": "誠意的倍鏡",
+  "bluearchive.attachment.scope_serika.tooltip":"據「夏萊史記」記載，芹香使用的倍鏡被描述爲“適\n合暗殺，但卻經常被用於尋找可以賣錢的空塑料瓶”\n此事在「後基沃書」亦有記載",
+
+  "bluearchive.gun.nonomi.name": "§2小型機關槍V",
+  "bluearchive.gun.nonomi.tooltip":"野宮使用的機關槍。與名字裡的“小型”正相反，相當大。",
+
+  "bluearchive.gun.hina.name":"§5終幕：毀滅者",
+  "bluearchive.gun.hina.tooltip":"日奈的機關槍，她視其爲手足。違反校規擾亂風紀之人，都將會被其冷酷無情的破壞力所吹飛。",
+
+  "bluearchive.gun.miyako.name":"§bRABBIT-31式衝鋒槍",
+  "bluearchive.gun.miyako.tooltip":"SRT特殊學園配給宮子的製式衝鋒槍。它是一支高度可靠的槍，即使在極限的情況下也能有效地擊退敵人。",
+  "bluearchive.attachment.muzzle_miyako.name":"RABBIT-31式衝鋒槍的消音器",
+  "bluearchive.attachment.muzzle_miyako.tooltip":"SRT特殊學院的製式消音器，因爲是製式的所以很\n便宜，就算賣了也換不得足夠的錢去睡公園以外的地方……",
+  "bluearchive.attachment.scope_miyako.name":"RABBIT-31式衝鋒槍的瞄準鏡",
+  "bluearchive.attachment.scope_miyako.tooltip":"SRT特殊學院的製式瞄準鏡，因爲是製式的所以很\n便宜，在黑市的價格還不如它所使用的電池……",
+
+  "bluearchive.gun.fuuka.name":"§4供餐部防身用槍typeA",
+  "bluearchive.gun.fuuka.tooltip":"楓香隨身攜帶的衝鋒槍。本來打算用它來壓製食堂暴亂的問題兒童，但大多數時候不用它出場，對方就會老實下來。不怎麼能用到它的樣子。",
+  "bluearchive.attachment.grip_fuuka.name":"供餐部防身用槍typeA的握把",
+  "bluearchive.attachment.grip_fuuka.tooltip":"楓香使用的握把，經常被賢惠的廚師用她那經曆\n刀傷、經驗豐富的手所緊握。看着感覺散髮出了她下廚時\n的菜香味。……用了這握把後料理功力會不會變好呢？",
+  "bluearchive.attachment.muzzle_fuuka.name":"供餐部防身用槍typeA的消音器",
+  "bluearchive.attachment.muzzle_fuuka.tooltip":"楓香使用的消音器，由於必須經常麵對暴亂的問題兒\n童，或許在不想被人知道的暗處，消音器起到了重要的作用……",
+  "bluearchive.attachment.scope_fuuka.name":"供餐部防身用槍typeA的倍鏡",
+  "bluearchive.attachment.scope_fuuka.tooltip":"楓香使用的倍鏡，用於精確地製服搗亂的問題兒童。\n但除了倍鏡本身以外，也需要長年料理所鍛煉出來的雙手\n穩穩抓住才能夠確保命中目標",
+
+  "bluearchive.gun.natsu.name": "超越沉思",
+  "bluearchive.gun.natsu.tooltip":"小夏手裡的衝鋒槍。對於愛思考的她來説，拿出這把槍基本意味着“最終手段”。",
+
+  "bluearchive.gun.azusa.name": "§6Et Omnia Vanitas",
+  "bluearchive.gun.azusa.tooltip":"梓經常拿着的槍。槍身刻着文字“一切皆是虛空。無論行至何處，一切皆虛”。",
+
+  "bluearchive.gun.yukino.name": "§6FOX-416式突擊步槍",
+  "bluearchive.gun.yukino.tooltip":"SRT特殊學園配給雪乃的製式步槍，遠近距離都很可靠的突擊步槍，在任何情況下都很適合一名隊長。",
+  "bluearchive.attachment.grip_yukino.name":"FOX-416式突擊步槍的握把",
+  "bluearchive.attachment.grip_yukino.tooltip":"很好用的握把，好用得就連監獄都得明令禁止把握把做成門把手。",
+  "bluearchive.attachment.scope_yukino.name":"FOX-416式突擊步槍的倍鏡",
+  "bluearchive.attachment.scope_yukino.tooltip":"更好用的全息瞄準鏡，好用到在監獄裡甚至是管製品。",
+
+  "bluearchive.gun.niko.name": "§5FOX-870式霰彈槍",
+  "bluearchive.gun.niko.tooltip":"SRT特殊學園配給妮可的製式霰彈槍，強大的近距離爆發力使得她成爲妮可的重要夥伴。",
+  "bluearchive.attachment.scope_niko.name":"FOX-870式霰彈槍的瞄準鏡",
+  "bluearchive.attachment.scope_niko.tooltip":"簡單可靠的瞄準鏡，讓人感覺猶如母親一般的可靠\n這瞄準鏡是能成爲我母親的東西啊！",
+
+  "bluearchive.gun.kurumi.name": "§6FOX-45式衝鋒槍",
+  "bluearchive.gun.kurumi.tooltip":"SRT特殊學園配給胡桃的製式衝鋒槍，與盾牌一起配合使得她成爲了團隊中坦克般的存在。",
+  "bluearchive.attachment.grip_kurumi.name":"FOX-45式衝鋒槍的握把",
+  "bluearchive.attachment.grip_kurumi.tooltip":"簡單可靠的握把\n如果在未經允許的情況下去擅自去抓握，就會被胡桃揍到飛起來。",
+  "bluearchive.attachment.scope_kurumi.name":"FOX-45式衝鋒槍的瞄準鏡",
+  "bluearchive.attachment.scope_kurumi.tooltip":"同樣簡單可靠的瞄準鏡\n胡桃在裝配時也不會把槍械原有的瞄具拆下來，難道不會阻擋視線嗎？",
+
+  "bluearchive.gun.otogi.name": "§2FOX-82式狙擊步槍",
+  "bluearchive.gun.otogi.tooltip":"SRT特殊學園配給御伽的製式狙擊步槍，其可怕的精準度爲團隊提供了可靠的遠程火力支援。",
+  "bluearchive.attachment.grip_otogi.name":"FOX-82式狙擊步槍的三腳架",
+  "bluearchive.attachment.grip_otogi.tooltip":"雖然是簡單可靠的三腳架\n但偶爾會發生穩定不了槍械的問題\n這只是在戰場環境下可愛三腳架常犯的呆萌小失誤～",
+  "bluearchive.attachment.scope_otogi.name":"FOX-82式狙擊步槍的高倍鏡",
+  "bluearchive.attachment.scope_otogi.tooltip":"簡單可靠的高倍瞄準鏡\n如果在御伽調整好後趁她不注意去亂扭\n御伽就會因爲過於震驚而呆在原地一整天。"
+
+
+}

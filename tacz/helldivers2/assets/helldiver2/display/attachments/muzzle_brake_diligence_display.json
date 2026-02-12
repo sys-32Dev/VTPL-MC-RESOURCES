@@ -1,0 +1,9 @@
+{
+  "slot": "helldiver2:attachment/slot/muzzle_brake_diligence",
+  "model": "helldiver2:attachment/muzzle_brake_diligence_geo",
+  "texture": "helldiver2:attachment/uv/muzzle_brake_diligence",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

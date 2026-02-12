@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.muzzle_fuuka.name",
+  "tooltip": "bluearchive.attachment.muzzle_fuuka.tooltip",
+  "display": "bluearchive:muzzle_fuuka_display",
+  "data": "bluearchive:muzzle_fuuka_data",
+  "type": "muzzle"
+}

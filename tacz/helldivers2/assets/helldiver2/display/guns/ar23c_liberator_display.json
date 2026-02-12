@@ -1,0 +1,56 @@
+{
+    "model": "helldiver2:gun/ar23c_liberator_geo",
+    "texture": "helldiver2:gun/uv/ar23c_liberator",
+    "lod": {
+        "model": "helldiver2:gun/lod/ar23c_liberator_lod",
+        "texture": "helldiver2:gun/lod/ar23c_liberator_lod"
+    },
+    "slot": "helldiver2:gun/slot/ar23c_liberator",
+    "animation": "helldiver2:ar23c_liberator",
+    "use_default_animation": "rifle",
+    "hud": "helldiver2:gun/hud/ar23c_liberator",
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 1
+    },
+    "shell": {
+        "initial_velocity": [5, 2, 1],
+        "random_velocity": [1, 1, 0.25],
+        "acceleration": [0.0, -10, 0.0],
+        "angular_velocity": [360, -1200, 90],
+        "living_time": 1.0
+    },
+    "sounds": {
+        "draw": "helldiver2:ar23c_liberator/ar23c_liberator_draw",
+        "dry_fire": "helldiver2:ar23c_liberator/ar23c_liberator_dry_fire",
+        "reload_empty": "helldiver2:ar23c_liberator/ar23c_liberator_reload_empty",
+        "reload_tactical": "helldiver2:ar23c_liberator/ar23c_liberator_reload_tactical",
+        "inspect": "helldiver2:ar23c_liberator/ar23c_liberator_inspect",
+        "inspect_empty": "helldiver2:ar23c_liberator/ar23c_liberator_inspect_empty",
+        "put_away": "helldiver2:ar23c_liberator/ar23c_liberator_put_away",
+        "shoot": "helldiver2:ar23c_liberator/ar23c_liberator_shoot",
+        "shoot_3p": "helldiver2:ar23c_liberator/ar23c_liberator_shoot",
+        "silence": "helldiver2:ar23c_liberator/ar23c_liberator_shoot_silence",
+        "silence_3p": "helldiver2:ar23c_liberator/ar23c_liberator_shoot_silence"
+    },
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    },
+    "third_person_animation": "default"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.grip_kurumi.name",
+  "tooltip": "bluearchive.attachment.grip_kurumi.tooltip",
+  "display": "bluearchive:grip_kurumi_display",
+  "data": "bluearchive:grip_kurumi_data",
+  "type": "grip"
+}

@@ -1,0 +1,55 @@
+{
+  "model": "mcs2:gun/cs_glock_geo",
+  "texture": "mcs2:gun/uv/cs_glock",
+  
+  "hud": "mcs2:gun/hud/cs_glock",
+  "slot": "mcs2:gun/slot/cs_glock",
+
+  "animation": "mcs2:cs_glock_new",
+  "use_default_animation": "pistol",
+  "player_animator_3rd": "tacz:pistol_default.player_animation",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "shell": {
+    "initial_velocity": [8.0, 5.0, -0.5],
+    "random_velocity": [2.5, 1.5, 0.25],
+    "acceleration": [0.0, -20, 0.0],
+    "angular_velocity": [360, -720, 90],
+    "living_time": 1.0
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0.4
+  },
+  "sounds": {
+    "reload_empty": "mcs2:cs_glock/cs_glock_reload",
+    "reload_tactical": "mcs2:cs_glock/cs_glock_reload",
+    "inspect": "mcs2:cs_glock/cs_glock_inspect",
+    "inspect_empty": "mcs2:cs_glock/cs_glock_inspect",
+    "draw": "mcs2:cs_glock/cs_glock_draw",
+    "shoot": "mcs2:cs_glock/cs_glock_shoot",
+    "shoot_3p": "mcs2:cs_glock/cs_glock_shoot_3p",
+    "head_hit":"mcs2:headshot_armor_e1",
+    "flesh_hit":"mcs2:kevlar3",
+    "kill":"mcs2:headshot_noarmor_02",
+    "dry_fire": "mcs2:clipempty_pistol",
+    "fire_select":"mcs2:cs_glock/cs_glock_mode"
+  },
+  "offhand_show": {
+    "pos": [0, 14, 3],
+    "rotate": [0, 148, 35],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 14, 3],
+      "rotate": [0, 148, 35],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

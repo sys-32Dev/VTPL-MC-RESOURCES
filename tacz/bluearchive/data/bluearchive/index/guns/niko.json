@@ -1,0 +1,9 @@
+{
+  "name": "bluearchive.gun.niko.name",
+  "tooltip": "bluearchive.gun.niko.tooltip",
+  "display": "bluearchive:niko_display",
+  "data": "bluearchive:niko_data",
+  "type": "shotgun",
+  "item_type": "modern_kinetic",
+  "sort": 2
+}

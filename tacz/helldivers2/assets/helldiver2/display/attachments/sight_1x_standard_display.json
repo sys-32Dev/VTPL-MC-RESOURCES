@@ -1,0 +1,14 @@
+{
+  "slot": "helldiver2:attachment/slot/sight_1x_standard",
+  "model": "helldiver2:attachment/sight_1x_standard_geo",
+  "texture": "helldiver2:attachment/uv/sight_1x_standard",
+  "zoom": [
+    1.25
+  ],
+  "sight": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

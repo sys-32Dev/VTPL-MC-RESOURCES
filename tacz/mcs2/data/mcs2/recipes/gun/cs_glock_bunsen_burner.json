@@ -1,0 +1,32 @@
+{
+  "type": "tacz:gun_smith_table_crafting",
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:honeycomb"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/light_blue"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "mcs2:cs_glock"
+        },
+        "count": 1
+      }
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "mcs2:cs_glock_bunsen_burner",
+    "count": 1
+  }
+}

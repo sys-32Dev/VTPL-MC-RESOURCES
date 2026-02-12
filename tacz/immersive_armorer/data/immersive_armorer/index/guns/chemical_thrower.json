@@ -1,0 +1,8 @@
+{
+    "name": "immersive_armorer.gun.chemical_thrower",
+    "display": "immersive_armorer:chemical_thrower_display",
+    "data": "immersive_armorer:chemical_thrower_data",
+    "tooltip": "immersive_armorer.tooltip.chemical_thrower",
+    "type": "rpg",
+    "sort": 300
+}

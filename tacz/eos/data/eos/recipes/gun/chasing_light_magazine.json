@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 96
+    },
+    {
+      "item": {
+        "item": "minecraft:piston"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/lime"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "eos:chasing_light_magazine",
+    "attachments": {
+      "scope": "eos:scope_chasing_light",
+      "grip": "eos:grip_chasing_light",
+      "muzzle": "eos:muzzle_chasing_light"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

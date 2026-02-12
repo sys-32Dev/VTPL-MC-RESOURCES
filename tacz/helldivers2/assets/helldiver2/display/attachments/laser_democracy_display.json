@@ -1,0 +1,9 @@
+{
+  "slot": "helldiver2:attachment/slot/laser_democracy",
+  "model": "helldiver2:attachment/laser_democracy_geo",
+  "texture": "helldiver2:attachment/uv/laser_democracy",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:soul_sand"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "item": "minecraft:black_wool"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "item": "minecraft:red_wool"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "helldiver2:authorized_gun"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

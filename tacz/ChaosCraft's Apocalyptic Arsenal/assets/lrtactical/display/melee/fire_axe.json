@@ -1,0 +1,133 @@
+{
+  "model": "lrtactical:melee/fire_axe_geo",
+  "animation": "lrtactical:melee/fire_axe",
+  "state_machine": "lrtactical:default_melee_state_machine",
+  "texture": "lrtactical:melee/fire_axe_uv",
+  "slot_texture": "lrtactical:melee/slot/fire_axe_slot",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -12.15,
+        -6.83,
+        -2.45
+      ],
+      "translation": [
+        -0.5,
+        -18,
+        4.75
+      ],
+      "scale": [
+        0.1,
+        0.1,
+        0.1
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        -18.5,
+        2.75
+      ],
+      "scale": [
+        0.1,
+        0.1,
+        0.1
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        2.5,
+        -29,
+        0
+      ],
+      "scale": [
+        0.1,
+        0.1,
+        0.1
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        4,
+        -28,
+        0
+      ],
+      "scale": [
+        0.1,
+        0.1,
+        0.1
+      ]
+    },
+    "ground": {
+      "rotation": [
+        90,
+        -58.59,
+        98.11
+      ],
+      "translation": [
+        7.25,
+        0,
+        -0.25
+      ],
+      "scale": [
+        0.1,
+        0.1,
+        0.1
+      ]
+    },
+    "gui": {
+      "rotation": [
+        -126.2,
+        -62.24,
+        -149.8
+      ],
+      "translation": [
+        -6,
+        -21.25,
+        0
+      ],
+      "scale": [
+        0.1,
+        0.1,
+        0.1
+      ]
+    },
+    "head": {
+      "rotation": [
+        12.75,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -37,
+        6
+      ],
+      "scale": [
+        0.1,
+        0.1,
+        0.1
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        91.39,
+        -55.92,
+        92.62
+      ],
+      "translation": [
+        15.5,
+        -21.5,
+        0
+      ],
+      "scale": [
+        0.1,
+        0.1,
+        0.1
+      ]
+    }
+  },
+  "textures": {
+    "particle": "item/fire_axe_uv"
+  }
+}

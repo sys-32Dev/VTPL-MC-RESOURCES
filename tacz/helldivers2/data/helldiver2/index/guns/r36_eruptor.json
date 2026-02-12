@@ -1,0 +1,8 @@
+{
+    "name": "helldiver2.gun.r36_eruptor.name",
+    "display": "helldiver2:r36_eruptor_display",
+    "data": "helldiver2:r36_eruptor_data",
+    "type": "rpg",
+    "item_type": "modern_kinetic",
+    "sort": 51
+}

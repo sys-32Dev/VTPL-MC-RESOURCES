@@ -1,0 +1,101 @@
+{
+  "pack.mcs2.name": "MCS2 Gunpack",
+  "pack.mcs2.desc": "Counter-strike,shining again",   
+        "mcs2.ammo.45acp.name": ".45 acp",
+
+        "mcs2.ammo.melee_weapon.name": "Melee Weapon",
+        "mcs2.knife.ct_knife.name":"Knife",
+        "mcs2.knife.ct_knife.desc":"\"Remove any doubts in your head , it's US or THEM\"\n- SAS",
+        "mcs2.knife.t_knife.name":"Knife",
+        "mcs2.knife.t_knife.desc":"\"No more talking , now we FIGHT!\"\n- Phoenix",
+
+        "mcs2.gun.cs_usp.name": "USP-S",
+        "mcs2.attachment.usp_silencer.name":"USP-S Silencer",
+        "mcs2.gun.cs_usp.desc":"Precise,silent,and (somewhat) deadly.\nConsider in the first round of the half.\n·Difficulty：★★",
+
+        "mcs2.gun.cs_m4a1s.name":"M4A1-S",
+        "mcs2.attachment.m4a1s_silencer.name":"M4A1-S silencer",
+        "mcs2.gun.cs_m4a1s.desc":"Precise,silent,tracer-free.\nConsider in full buy round.\n·Difficulty：★★★",
+
+        "mcs2.gun.cs_ak.name":"AK-47",
+        "mcs2.gun.cs_ak.desc":"·The classic, accurate, and deadly workhorse\n·Consider in full buy rounds\n·Difficulty：★★★★",
+
+        "mcs2.gun.cs_glock.name":"Glock-18",
+        "mcs2.gun.cs_glock.desc":"·Deadly up close, just a nuisance at range\n·Consider in the frist round of the half\n·Difficulty:★★",
+
+        "mcs2.gun.cs_awp.name":"AWP",
+        "mcs2.gun.cs_awp.desc":"·Devastating power for the confident sinper\nConsider in full buy rounds\n·Difficulty：★★★",
+        "mcs2.attachment.awp_scope.name":"AWP 4x Zoomer",
+
+        "mcs2.knife.karambit.name":"§4★ Karambit",
+        "mcs2.knife.karambit.desc":"§7With its curved blade mimicking a tiger's claw, the karambit was developed as part of the southeast Asian martial discipline of silat.\nThe knife is typically used with a reverse grip, with the finger ring on the index finger.",
+        "mcs2.knife.butterfly_knife.name":"§4★ Butterfly Knife",
+        "mcs2.knife.butterfly_knife.desc":"§7This is a custom-designed balisong,commonly known as a butterfly knife.Because of its fan-like opening of freely pivoting blade,it is outlawed in many countries.",
+
+
+        "mcs2.gun.cs_usp_printstream.name":"§4USP-S | Printstream",
+        "mcs2.gun.cs_usp_printstream.desc":"§7It has been custom painted with a stark black and white design and finished with pearlescent highlights.\n§7§oWHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1; PISTOL_1;",
+        "mcs2.gun.cs_usp_royal_blue.name":"§bUSP-S | Royal Blue",
+        "mcs2.gun.cs_usp_royal_blue.desc":"§7It has been painted solid colors in indigo, crimson and grey.\n§7§oYou should smile Felix...- Imogen, Arms Dealer In Training",
+        "mcs2.gun.cs_usp_stainless.name":"§9USP-S | Stainless",
+        "mcs2.gun.cs_usp_stainless.desc":"§7It has a stainless steel slide.\n§7§o<The Arms Deal 3 Collection>",
+        "mcs2.gun.cs_usp_whiteout.name":"§dUSP-S | Whiteout",
+        "mcs2.gun.cs_usp_whiteout.desc":"§7It is spray-painted all white.\n§7§oIt looks pure, but looks can be deceiving",
+
+        "mcs2.gun.cs_m4a1s_atomic_alloy.name":"§dM4A1-S | Atomic Alloy",
+        "mcs2.gun.cs_m4a1s_atomic_alloy.desc":"§7§oIt has been anodized black and orange.\n§7§o<The Huntsman Collection>",
+        "mcs2.gun.cs_m4a1s_blue_phosphor.name":"§dM4A1-S | Blue Phosphor",
+        "mcs2.gun.cs_m4a1s_blue_phosphor.desc":"§7Multiple layers of metallic blue paint have been applied over a chrome blue base coat.\n§7§oFeeling blue?",
+        "mcs2.gun.cs_m4a1s_chantico_fire.name":"§4M4A1-S | Chantico's Fire",
+        "mcs2.gun.cs_m4a1s_chantico_fire.desc":"§7It has been hand painted in vibrant colors and accentuated by a smiley face on the stock.\n§7§oProtect what is yours",
+        "mcs2.gun.cs_m4a1s_emphorosaur_s.name":"§5M4A1-S | Emphorosaur-S",
+        "mcs2.gun.cs_m4a1s_emphorosaur_s.desc":"§7It has been custom painted to look like a dinosaur is clawing through the side of the weapon.\n§7§oFeeding frenzy",
+        "mcs2.gun.cs_m4a1s_hot_rod.name":"§dM4A1-S | Hot Rod",
+        "mcs2.gun.cs_m4a1s_hot_rod.desc":"§7It has been painted with a chrome base coat and candied in transparent red anodized effect paint.\n§7§oAutomatic. Systematic. Hydromatic.",
+        "mcs2.gun.cs_m4a1s_knight.name":"§dM4A1-S | Knight",
+        "mcs2.gun.cs_m4a1s_knight.desc":"§7It has brass inlays with a renaissance armor theme.\n§7§oWhat do you mean you can't find Cocinero and Izaki?\n- Felix Riley, Commanding Officer",
+        "mcs2.gun.cs_m4a1s_nitro.name":"§5M4A1-S | Nitro",
+        "mcs2.gun.cs_m4a1s_nitro.desc":"§7It has individual parts spray-painted black and tangerine orange.\n§7§oRona is as good as she thinks she is...she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer",
+        "mcs2.gun.cs_m4a1s_printstream.name":"§4M4A1-S | Printstream",
+        "mcs2.gun.cs_m4a1s_printstream.desc":"§7It has been custom painted with a stark black and white design and finished with pearlescent highlights.\n§7§oWHITE_1; BLACK_1; PEARLESCENT_1; SILENCED_1;",
+
+        "mcs2.gun.cs_ak_ice_coaled.name":"§dAK47 | Ice Coaled",
+        "mcs2.gun.cs_ak_ice_coaled.desc":"§7It has been custom painted with a vibrant green and blue gradient.\n§7§oCold to the touch",
+        "mcs2.gun.cs_ak_vulcan.name":"§4AK47 | Vulcan",
+        "mcs2.gun.cs_ak_vulcan.desc":"§7It has been custom painted in a sports inspired design.\n§7§o<The Huntsman Collection>",
+        "mcs2.gun.cs_ak_elite_build.name":"§9AK47 | Elite Build",
+        "mcs2.gun.cs_ak_elite_build.desc":"§7It has been custom painted using a combination of hydrographics and careful stenciling and detailed with heat-transfer decals.\n§7§oTread softly Naomi...- The Shield and The Serpent Part 2",
+        "mcs2.gun.cs_ak_fire_serpent.name":"§4AK-47 | Fire Serpent",
+        "mcs2.gun.cs_ak_fire_serpent.desc":"§7This memento from Ruins has been painted with a fire serpent motif.\n§7§oIf you want to survive in the streets, learn to spit fire",
+        "mcs2.gun.cs_ak_green_laminate.name":"§9AK47 | Green Laminate",
+        "mcs2.gun.cs_ak_green_laminate.desc":"§7An green laminate has been applied to this AK's stock, grip, and handguard.\n§7§oIt's the simple things",
+
+
+        "mcs2.gun.cs_ak_fuel_injector.name":"§6AK47 | Fuel Injector",
+        "mcs2.gun.cs_ak_fuel_injector.desc":"§6Master piece of Operation WildFire",
+
+
+        "mcs2.gun.cs_ak_asiimov.name":"§4AK47 | Asiimov",
+        "mcs2.gun.cs_ak_asiimov.desc":"§7It has been custom painted with a sci-fi design.\n§7§oAnyone can predict the future... a visionary shapes it",
+        "mcs2.gun.cs_ak_abyssal_apparition.name":"§a§mAK47 | Abyssal Apparition",
+        "mcs2.gun.cs_ak_abyssal_apparition.desc":"§7This custom paint job depicts abandoned souls falling into a pit of nightmares.\n§7§oYou cannot escape your destiny",
+         
+        "mcs2.gun.cs_glock_bunsen_burner.name":"§9Glock-18 | Bunsen Burner",
+        "mcs2.gun.cs_glock_bunsen_burner.desc":"§7It has been given a blue patina which has been polished off parts of the slide to result in a graphic flame design.\n§7§oKNOCK KNOCK",
+        "mcs2.gun.cs_glock_candy_apple.name":"§9Glock-18 | Candy Apple",
+        "mcs2.gun.cs_glock_candy_apple.desc":"§7It has individual parts spray-painted solid colors in a red and black color scheme.\n§7§oGreat on cars, better on weapons",
+        "mcs2.gun.cs_glock_dragon_tattoo.name":"§5Glock-18 | Dragon Tattoo",
+        "mcs2.gun.cs_glock_dragon_tattoo.desc":"§7It has been painted using a dragon decal over a metallic base coat.\n§7§oKnight always slays the dragon , but...? - Valeria Jenner,Revolutionary",
+        "mcs2.gun.cs_glock_high_beam.name":"§9Glock-18 | High Beam",
+        "mcs2.gun.cs_glock_high_beam.desc":"§7A blue spiral pattern has been applied to the slide.\n§7§oHard to miss",
+        "mcs2.gun.cs_glock_moonrise.name":"§5Glock-18 | Moonrise",
+        "mcs2.gun.cs_glock_moonrise.desc":"§7A randomized city landscape in the foreground gives way to a full moon and purple night sky.\n§7§oLook for the North Star",
+        "mcs2.gun.cs_glock_reactor.name":"§9Glock-18 | Reactor",
+        "mcs2.gun.cs_glock_reactor.desc":"§7It has been painted with a pattern of nuclear hazard symbols using metallic paints.\n§7§o<The Cache Collection>",
+        
+        "mcs2.gun.cs_awp_fade.name":"§4AWP | Fade",
+        "mcs2.gun.cs_awp_fade.desc":"§7It has been painted by airbrushing transparent paints that fade together over a chrome base coat.\n§7§oThis isn't just a weapon, it's a conversation piece\n- Imogen, Arms Dealer In Training",
+        "mcs2.gun.cs_awp_dragon_lore.name":"§4AWP | Dragon Lore",
+        "mcs2.gun.cs_awp_dragon_lore.desc":"§7It has been custom painted with a knotwork dragon.\n§7§o200 keys could never unlock its secrets"
+        
+}

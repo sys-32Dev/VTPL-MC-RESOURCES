@@ -1,0 +1,10 @@
+{
+  "slot": "helldiver2:ammo/slot/shotgun_normal",
+  "model": "helldiver2:ammo/shotgun_normal",
+  "texture": "helldiver2:ammo/uv/shotgun_normal",
+  "tracer_color": "#ff3d27",
+  "shell": {
+    "model": "helldiver2:shell/shotgun_normal_shell",
+    "texture": "helldiver2:shell/shotgun_normal_shell"
+  }
+}

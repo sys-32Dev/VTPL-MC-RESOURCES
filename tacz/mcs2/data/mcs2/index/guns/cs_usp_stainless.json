@@ -1,0 +1,15 @@
+{
+   
+    "name": "mcs2.gun.cs_usp_stainless.name",
+   
+    "display": "mcs2:cs_usp_stainless_display",
+    
+    "data": "mcs2:cs_usp_data",
+    "tooltip": "mcs2.gun.cs_usp_stainless.desc",
+   
+    "type": "pistol",
+    
+    "item_type": "modern_kinetic",
+   
+    "sort": 21
+}

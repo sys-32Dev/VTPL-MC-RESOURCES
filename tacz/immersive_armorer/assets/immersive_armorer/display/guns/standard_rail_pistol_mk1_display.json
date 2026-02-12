@@ -1,0 +1,49 @@
+{
+    "model": "immersive_armorer:gun/standard_rail_pistol_mk1_geo",
+    "texture": "immersive_armorer:gun/uv/standard_rail_pistol_mk1",
+    "lod": {
+        "model": "immersive_armorer:gun/lod/standard_rail_pistol_mk1_lod",
+        "texture": "immersive_armorer:gun/lod/standard_rail_pistol_mk1_lod"
+    },
+    "hud": "immersive_armorer:gun/hud/standard_rail_pistol_mk1",
+    "slot": "immersive_armorer:gun/slot/standard_rail_pistol_mk1",
+    "animation": "immersive_armorer:standard_rail_pistol_mk1",
+    "use_default_animation": "pistol",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.2,
+                1.2,
+                1.2
+            ]
+        }
+    },
+    "muzzle_flash": {
+        "texture": "immersive_armorer:flash/railgun_flash",
+        "scale": 1.25
+    },
+    "sounds": {
+        "shoot": "immersive_armorer:standard_rail_pistol_mk1/standard_rail_pistol_mk1_shoot",
+        "shoot_3p": "immersive_armorer:standard_rail_pistol_mk1/standard_rail_pistol_mk1_shoot",
+        "reload_empty": "immersive_armorer:standard_rail_pistol_mk1/standard_rail_pistol_mk1_reload",
+        "reload_tactical": "immersive_armorer:standard_rail_pistol_mk1/standard_rail_pistol_mk1_reload",
+        "inspect": "immersive_armorer:standard_rail_pistol_mk1/standard_rail_pistol_mk1_inspect",
+        "inspect_empty": "immersive_armorer:standard_rail_pistol_mk1/standard_rail_pistol_mk1_inspect",
+        "draw": "immersive_armorer:standard_rail_pistol_mk1/standard_rail_pistol_mk1_draw",
+        "dry_fire": "immersive_armorer:dry_fire/dry_fire",
+        "put_away": "immersive_armorer:standard_rail_pistol_mk1/standard_rail_pistol_mk1_put_away",
+        "silence": "immersive_armorer:standard_rail_pistol_mk1/standard_rail_pistol_mk1_silence",
+        "silence_3p": "immersive_armorer:standard_rail_pistol_mk1/standard_rail_pistol_mk1_silence"
+    }
+}

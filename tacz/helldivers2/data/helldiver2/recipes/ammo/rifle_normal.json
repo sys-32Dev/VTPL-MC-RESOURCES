@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:gunpowder"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "helldiver2:rifle_normal",
+    "count": 30
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

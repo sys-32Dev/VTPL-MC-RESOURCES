@@ -1,0 +1,11 @@
+{
+  "model": "bluearchive:attachment/scope_kurumi_geo",
+  "slot": "bluearchive:attachment/slot/kurumiscope",
+  "texture": "bluearchive:attachment/uv/kurumiscope",
+  "zoom": [
+    2.0
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0
+}

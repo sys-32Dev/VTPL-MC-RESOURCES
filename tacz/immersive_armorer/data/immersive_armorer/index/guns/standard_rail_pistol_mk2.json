@@ -1,0 +1,7 @@
+{
+    "name": "immersive_armorer.gun.standard_rail_pistol_mk2",
+    "display": "immersive_armorer:standard_rail_pistol_mk2_display",
+    "data": "immersive_armorer:standard_rail_pistol_mk2_data",
+    "type": "pistol",
+    "sort": 301
+}

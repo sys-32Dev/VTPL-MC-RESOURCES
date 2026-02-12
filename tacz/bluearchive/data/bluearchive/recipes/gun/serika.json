@@ -1,0 +1,24 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "minecraft:white_dye"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "bluearchive:serika",
+    "attachments": {
+      "scope": "bluearchive:scope_serika"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

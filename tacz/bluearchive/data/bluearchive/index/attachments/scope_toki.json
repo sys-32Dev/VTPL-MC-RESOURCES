@@ -1,0 +1,7 @@
+{
+  "name": "bluearchive.attachment.scope_toki.name",
+  "tooltip": "bluearchive.attachment.scope_toki.tooltip",
+  "display": "bluearchive:scope_toki_display",
+  "data": "bluearchive:scope_toki_data",
+  "type": "scope"
+}
